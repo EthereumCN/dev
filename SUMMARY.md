@@ -1,9 +1,9 @@
 # Table of contents
 
-* [链就武林高手](README.md)
-* [十八般武艺](shi-ba-ban-wu-yi.md)
+* [以太坊开发者门户](README.md)
+* [链就码林高手](shi-ba-ban-wu-yi.md)
 
-## 开发者工具
+## 十八般武艺 <a id="kai-fa-zhe-gong-ju"></a>
 
 * [基础工具](kai-fa-zhe-gong-ju/ji-chu-gong-ju/README.md)
   * [Infura](kai-fa-zhe-gong-ju/ji-chu-gong-ju/infura.md)
