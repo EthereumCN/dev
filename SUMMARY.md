@@ -101,7 +101,8 @@
 
 ## 节点运行
 
-* [Untitled](jie-dian-yun-hang/untitled.md)
+* [Raspberry Pi 4](jie-dian-yun-hang/untitled.md)
+* [NanoPC-T4](jie-dian-yun-hang/nanopc-t4.md)
 
 ## 延伸阅读
 
