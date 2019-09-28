@@ -94,20 +94,14 @@
   * [Gitcoin](kai-fa-zhe-gong-ju/the-future-of-work/gitcoin.md)
   * [Bounties Network](kai-fa-zhe-gong-ju/the-future-of-work/bounties-network.md)
 * [开发者论坛](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/README.md)
-  * [Untitled](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/untitled.md)
   * [Gitter](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/gitter.md)
   * [The BUIDL Network](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/the-buidl-network.md)
   * [Fellowship of Ethereum Magicians](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/fellowship-of-ethereum-magicians.md)
-
-## 开发者规范 <a id="kai-fa-zhe-gui-fan-1"></a>
-
-* [EIPs](kai-fa-zhe-gui-fan-1/eips.md)
-* [ERCs](kai-fa-zhe-gui-fan-1/ercs.md)
-
-## 节点运行
-
-* [Raspberry Pi 4](jie-dian-yun-hang/untitled.md)
-* [NanoPC-T4](jie-dian-yun-hang/nanopc-t4.md)
+* [开发规范](kai-fa-zhe-gong-ju/kai-fa-gui-fan/README.md)
+  * [EIPs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/eips.md)
+  * [ERCs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs.md)
+* [运行节点](kai-fa-zhe-gong-ju/yun-hang-jie-dian/README.md)
+  * [Raspberry Pi 4](kai-fa-zhe-gong-ju/yun-hang-jie-dian/untitled.md)
 
 ## 延伸阅读
 
