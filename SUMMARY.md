@@ -93,6 +93,11 @@
 * [开源协作](kai-fa-zhe-gong-ju/the-future-of-work/README.md)
   * [Gitcoin](kai-fa-zhe-gong-ju/the-future-of-work/gitcoin.md)
   * [Bounties Network](kai-fa-zhe-gong-ju/the-future-of-work/bounties-network.md)
+* [开发者论坛](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/README.md)
+  * [Untitled](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/untitled.md)
+  * [Gitter](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/gitter.md)
+  * [The BUIDL Network](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/the-buidl-network.md)
+  * [Fellowship of Ethereum Magicians](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/fellowship-of-ethereum-magicians.md)
 
 ## 开发者规范 <a id="kai-fa-zhe-gui-fan-1"></a>
 
@@ -102,6 +107,7 @@
 ## 节点运行
 
 * [Raspberry Pi 4](jie-dian-yun-hang/untitled.md)
+* [NanoPC-T4](jie-dian-yun-hang/nanopc-t4.md)
 
 ## 延伸阅读
 
