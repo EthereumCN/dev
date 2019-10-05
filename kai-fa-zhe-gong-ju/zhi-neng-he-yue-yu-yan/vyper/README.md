@@ -6,3 +6,13 @@
 
 A pythonic programming language for implementing smart contracts. Vyper is also currently beta software.
 
+Github
+
+{% embed url="https://github.com/ethereum/vyper" %}
+
+Gitter聊天室
+
+{% embed url="https://gitter.im/ethereum/vyper" %}
+
+
+
