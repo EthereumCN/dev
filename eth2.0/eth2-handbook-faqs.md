@@ -34,7 +34,7 @@
 
 * `**不定期更新**` [Two Point Oh](https://our.status.im/tag/two-point-oh/) - 由 [status-im/the-explainers](https://github.com/status-im/the-explainers/)更新维护，中文版由[ECN: Ethereum.cn以太坊中文网](%20https://eth2.ethereum.cn/eth-2.0-jin-zhan/two-point-oh%20)更新。
 
-#### 🤓 Level 2: 如果你想练九阳神功，入这个无人之洞吧！
+#### 🤓 Level 2: 如果想练九阳神功，入这个无底之洞吧！
 
 * 🌟 `**定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs); 2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
 * 必读武功秘籍
@@ -200,5 +200,5 @@ Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase
 
 * 欢迎来到 [discord](https://discord.gg/hpFs23p) or [gitter频道l](https://gitter.im/ethereum/sharding)! 👋
 
-### 此文档由[ECN\(Ethereum.cn\)](https://ethereum.cn)小组编辑及整理。
+### 此文档由[ECN\(Ethereum.cn\)](https://ethereum.cn)小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
 
