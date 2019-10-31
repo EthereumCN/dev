@@ -1,17 +1,18 @@
 # 开发者手册和常见问题
 
+## 搞D乜？ETH2也疯狂！
+
+* 通过综合以太坊最新的ETH2.0开发进程，旨在提供一个开发者培训指南，迅速入手ETH2.0开发。
+* 这个文档是精华中的精华，可能其它地方也出现过类似的文档，我们尝试把最有用的东西收集到这里。It’s a collection of collections; the same resource may overlap in different links. Although we would try to sort by difficulty levels.
+* 请注意，ETH2.0在以太坊基金会的主导下正如火如荼的建设中，有些内容可能迅速修改和抛弃，请多留意我们的最新文档更新。
+
+## 总舵
+
+* 2019年10月29日：[规范v0.9.0发布](https://eth2.ethereum.cn/eth2-specs/v0.9.0)，精华解读也准备在路上了。
 
 
-## 搞D乜？
 
-* It’s a collaborative doc for training Ethereum 2.0 developers immediately.
-* It’s a collection of collections; the same resource may overlap in different links. Although we would try to sort by difficulty levels.
-
-## Headline
-
-* 2019 Oct 29th: [Spec v0.9.0 release](https://github.com/ethereum/eth2.0-specs/releases/tag/v0.9.0)! Note that the spec comprehensive reading will be updated.
-
-[Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#-Ethereum-20-Devs-Handbook-and-FAQs)[What is it?](https://notes.ethereum.org/@serenity/handbook?type=view#What-is-it)[Headline](https://notes.ethereum.org/@serenity/handbook?type=view#Headline)[Learning Ethereum 2.0](https://notes.ethereum.org/@serenity/handbook?type=view#Learning-Ethereum-20)[👶🏻 Level 1: Introduction for newbies](https://notes.ethereum.org/@serenity/handbook?type=view#%F0%9F%91%B6%F0%9F%8F%BB-Level-1-Introduction-for-newbies)[🤓 Level 2: If you want to fully understand the core protocols](https://notes.ethereum.org/@serenity/handbook?type=view#%F0%9F%A4%93-Level-2-If-you-want-to-fully-understand-the-core-protocols)[🧐 Level 3: Deeper reading materials](https://notes.ethereum.org/@serenity/handbook?type=view#%F0%9F%A7%90-Level-3-Deeper-reading-materials)[What’s happening?](https://notes.ethereum.org/@serenity/handbook?type=view#What%E2%80%99s-happening)[Research topics](https://notes.ethereum.org/@serenity/handbook?type=view#Research-topics)[Randomness](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)[Phase 2: state execution](https://notes.ethereum.org/@serenity/handbook?type=view#Phase-2-state-execution)[Economics](https://notes.ethereum.org/@serenity/handbook?type=view#Economics)[Events outputs](https://notes.ethereum.org/@serenity/handbook?type=view#Events-outputs)[FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#-FAQs)[Roadmaps, plans](https://notes.ethereum.org/@serenity/handbook?type=view#Roadmaps-plans)[What’s the Ethereum 2.0 roadmap?](https://notes.ethereum.org/@serenity/handbook?type=view#What%E2%80%99s-the-Ethereum-20-roadmap)[How and when to merge eth1 chain into eth2?](https://notes.ethereum.org/@serenity/handbook?type=view#How-and-when-to-merge-eth1-chain-into-eth2)[Phase 0 beacon chain](https://notes.ethereum.org/@serenity/handbook?type=view#Phase-0-beacon-chain)[What I need to do to be a beacon chain validator?](https://notes.ethereum.org/@serenity/handbook?type=view#What-I-need-to-do-to-be-a-beacon-chain-validator)[When will Phase 0 beacon chain be launched?](https://notes.ethereum.org/@serenity/handbook?type=view#When-will-Phase-0-beacon-chain-be-launched)[How’s the liquidity in phase 0 and phase 1?](https://notes.ethereum.org/@serenity/handbook?type=view#How%E2%80%99s-the-liquidity-in-phase-0-and-phase-1)[Phase 1 data chain](https://notes.ethereum.org/@serenity/handbook?type=view#Phase-1-data-chain)[What is data availability? Why is it important?](https://notes.ethereum.org/@serenity/handbook?type=view#What-is-data-availability-Why-is-it-important)[What is proof of custody?](https://notes.ethereum.org/@serenity/handbook?type=view#What-is-proof-of-custody)[Phase 2 state execution](https://notes.ethereum.org/@serenity/handbook?type=view#Phase-2-state-execution1)[What are all the cross-shard transations mechanisms?](https://notes.ethereum.org/@serenity/handbook?type=view#What-are-all-the-cross-shard-transations-mechanisms)[Misc](https://notes.ethereum.org/@serenity/handbook?type=view#Misc)[Why not EIP-1011 \(Casper FFG Contract\)?](https://notes.ethereum.org/@serenity/handbook?type=view#Why-not-EIP-1011-Casper-FFG-Contract)[How to become an Ethereum 2.0 developer?](https://notes.ethereum.org/@serenity/handbook?type=view#How-to-become-an-Ethereum-20-developer)[Still have question?](https://notes.ethereum.org/@serenity/handbook?type=view#Still-have-question)
+###  <a id="Learning-Ethereum-20"></a>
 
 ### Learning Ethereum 2.0 <a id="Learning-Ethereum-20"></a>
 
