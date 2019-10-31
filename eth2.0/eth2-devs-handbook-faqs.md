@@ -14,7 +14,7 @@
   * [目前进展](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-devs-handbook-faqs#mu-qian-jin-zhan)
   * [研究课题](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-devs-handbook-faqs#yan-jiu-ke-ti)
   * [活动集锦](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-devs-handbook-faqs#huo-dong-ji-jin)
-* [常见问题FAQs](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-devs-handbook-faqs#faqs)
+* [常见问题FAQs](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-devs-handbook-faqs#chang-jian-wen-ti-faqs)
 
 ### 学习以太坊2.0
 
