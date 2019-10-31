@@ -68,10 +68,10 @@
 
 * 🎙 [ETH2.0 实施者双周电话会议](https://github.com/ethereum/eth2.0-pm/)
 * 🗂 [eth2.info](https://eth2.info/) - 由Ben Edgington \(PegaSys, ConsenSys\)维护；
-* 定期发布
+* 定期出版
   * 🦄 [以太坊基金会博客 - eth2更新速递](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
-  * 📣 [Week in Ethereum News](http://www.weekinethereum.com/) - by Evan Van Ness
-  * 🆕 [What’s New in Eth2?](http://eth2.news/) - by Ben Edgington \(PegaSys, ConsenSys\)
+  * 📣 [一周以太坊新闻](http://www.weekinethereum.com/) - 由Evan Van Ness维护
+  * 🆕 [Eth2新鲜资讯?](http://eth2.news/) - 由 Ben Edgington \(PegaSys, ConsenSys\)维护
 * 客户端团队更新
   * 💠 [Prysmatic Labs 双周开发更新](https://medium.com/prysmatic-labs)
   * ☁️ [Nimbus团队更新](https://our.status.im/tag/nimbus/)
