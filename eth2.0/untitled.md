@@ -14,9 +14,9 @@
 * 研究主题
 * 活动
 
-### Learning Ethereum 2.0 <a id="Learning-Ethereum-20"></a>
+### 攻克以太坊2.0 <a id="Learning-Ethereum-20"></a>
 
-#### 👶🏻 Level 1: Introduction for newbies <a id="&#x1F476;&#x1F3FB;-Level-1-Introduction-for-newbies"></a>
+#### 👶🏻 Level 1: 初学者入门  <a id="&#x1F476;&#x1F3FB;-Level-1-Introduction-for-newbies"></a>
 
 * **\[2018 Nov @Devcon4\]** 🎞️ [@vbuterin: Ethereum 2.0 - the road to scaling Ethereum](https://slideslive.com/38911602/latest-of-ethereum)
   * An overview of the history and future roadmap.
