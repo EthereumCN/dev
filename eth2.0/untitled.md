@@ -14,169 +14,187 @@
 * 研究主题
 * 活动
 
-### 攻克以太坊2.0 <a id="Learning-Ethereum-20"></a>
+### 学习以太坊2.0
 
-#### 👶🏻 Level 1: 初学者入门  <a id="&#x1F476;&#x1F3FB;-Level-1-Introduction-for-newbies"></a>
+#### 👶🏻 Level 1: 初学者必入
 
-* **\[2018 Nov @Devcon4\]** 🎞️ [@vbuterin: Ethereum 2.0 - the road to scaling Ethereum](https://slideslive.com/38911602/latest-of-ethereum)
-  * An overview of the history and future roadmap.
-* **\[2019 Oct @Devcon5\]** 🎞️ [@djrtwo - eth2.0; tldr video](https://slideslive.com/38919931/eth-20-tldr) and [slides](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1)
-  * The latest high-level introduction of Ethereum 2.0 phases.
-* **`Update irregularly`** [ethereum.org collection](https://ethereum.org/learn/#eth-2-0)
-  * Useful links to more learning resources.
-* **`Update irregularly`** [Two Point Oh](https://our.status.im/tag/two-point-oh/) - organized on [status-im/the-explainers](https://github.com/status-im/the-explainers/)
+* **\[2018年11月@Devcon4\]** 🎞️ [@vbuterin: 以太坊2.0扩容之路](https://slideslive.com/38911602/latest-of-ethereum)
 
-#### 🤓 Level 2: If you want to fully understand the core protocols <a id="&#x1F913;-Level-2-If-you-want-to-fully-understand-the-core-protocols"></a>
+  总结：路线图的历史与未来。
 
-* 🌟 **`Update irregularly`** [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
-* Core spec comprehensive reading
-  * **`Update irregularly`** [Serenity Rationale](https://notes.ethereum.org/@vbuterin/rkhCgQteN) - \(20190808 version\)
-  * **`Update irregularly`** [@protolambda: Phase 0 Specs Diagrams](https://github.com/protolambda/eth2-docs)
-  * **\[2019 Oct @Devcon5, spec v8\]** Phase 0 deepdive [slides](https://docs.google.com/presentation/d/1MZ-E6TVwomt4rqz-P2Bd_X3DFUW9fWDQkxUP_QJhkyw/edit?pli=1#slide=id.g621e1673fb_21_195) and [video @3h58m40s](https://slideslive.com/38919736/devcon5-convention-room-day2)
+* **\[2019年10月@Devcon5\]** 🎞️ [Danny Ryan - eth2.0简介视频](https://slideslive.com/38919931/eth-20-tldr) and [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1)
 
-#### 🧐 Level 3: Deeper reading materials <a id="&#x1F9D0;-Level-3-Deeper-reading-materials"></a>
+   以太坊2.0阶段的最新进阶介绍
 
-**Forums**
+* `**不定期更新**` 1. [ethereum.org官网集锦](https://ethereum.org/learn/#eth-2-0) 2. 以太坊中文社区的更新：[ETH2.0之即将来临](%20https://eth2.ethereum.cn/%20).
 
-* 💡Ethereum Research discourse [ethresear.ch](http://ethresear.ch/) - [sharding](https://ethresear.ch/c/sharding) and [Casper](https://ethresear.ch/c/casper) topics.
+  更多不错的资源。
+
+* `**不定期更新**` [Two Point Oh](https://our.status.im/tag/two-point-oh/) - 由 [status-im/the-explainers](https://github.com/status-im/the-explainers/)更新维护，中文版由[ECN: Ethereum.cn以太坊中文网](%20https://eth2.ethereum.cn/eth-2.0-jin-zhan/two-point-oh%20)更新。
+
+#### 🤓 Level 2: 如果你想练九阳神功，入这个无人之洞吧！
+
+* 🌟 `**定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs); 2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
+* 必读武功秘籍
+  * `**定期更新**` 1. [Serenity宁静阶段的设计理念](https://notes.ethereum.org/@vbuterin/rkhCgQteN) - \(2019年8月文档\)；2. [ECN中文整理](%20https://eth2.ethereum.cn/research/serenity/rationale%20)；
+  * `**定期更新**` 1. [Phase 0规范图示](https://github.com/protolambda/eth2-docs) 2. ECN中文网整理
+  * **\[2019年10月 @Devcon5, 规范v8版本\]** Phase 0 之高级修练 [Google演示文档](https://docs.google.com/presentation/d/1MZ-E6TVwomt4rqz-P2Bd_X3DFUW9fWDQkxUP_QJhkyw/edit?pli=1#slide=id.g621e1673fb_21_195) and [视频@3h58m40s](https://slideslive.com/38919736/devcon5-convention-room-day2)
+
+    ‌
+
+#### 🧐 Level 3: 更高级秘籍
+
+**论坛**
+
+* 💡以太坊研究论坛 [ethresear.ch](http://ethresear.ch/) - [分片sharding](https://ethresear.ch/c/sharding) 和 [鬼精灵Casper](https://ethresear.ch/c/casper)相关主题。
 
 **Sharding, scalalibility**
 
-* **`Update irregularly`** [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
-  * What is blockchain sharding? The different tradeoffs of different cross-shard communication approaches?
-* **`Update irregularly`** [Ethereum Sharding Research Compendium](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
-  * Vitalik’s collection notes. Also including some proof-of-stake related resources.
-* **`Update irregularly`** [@vbuterin: Eth2 sharding mindmap](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
-* **\[2018 July @IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: Sharding: Making blockchains scalable, decentralized and secure - [video](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) and [slides](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
+* `**定期更新**` [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
+  * 什么是区块链分片？不同的分片跨链通讯方式有何差异？
+* `**定期更新**` [以太坊分片研究纲要](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
+  * Vitalik的笔记收集，其中包括一些一些PoS相关的资源。
+* `**定期更新**` [Vitalik关于分片的思维导图](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
+* **\[2018年7月@IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: 分片技术：创建可扩容性、去中心化和安全的区块链。 - [视频](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) and [演示文档](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
 
 **Proof-of-Stake, Casper**
 
-* **`Update irregularly`** [Proof of Stake FAQ ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-* **`Paper`** [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
+* `**定期更新**` [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+* `**论文**` [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)‌
 
-### What’s happening? <a id="What&#x2019;s-happening"></a>
+### 目前进展
 
-* 🎙 [ETH2.0 Implementers Bi-weekly Calls](https://github.com/ethereum/eth2.0-pm/)
-* 🗂 [eth2.info](https://eth2.info/) - by Ben Edgington \(PegaSys, ConsenSys\)
-* Regular publications
+* 🎙 [ETH2.0 实施者双周电话会议](https://github.com/ethereum/eth2.0-pm/)
+* 🗂 [eth2.info](https://eth2.info/) - 由Ben Edgington \(PegaSys, ConsenSys\)维护；
+* 定期出版
   * 🦄 [Ethereum Foundation blog - eth2 quick update](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
   * 📣 [Week in Ethereum News](http://www.weekinethereum.com/) - by Evan Van Ness
   * 🆕 [What’s New in Eth2?](http://eth2.news/) - by Ben Edgington \(PegaSys, ConsenSys\)
-* Client teams updates
-  * 💠 [Prysmatic Labs Biweekly Development Update](https://medium.com/prysmatic-labs)
-  * ☁️ [Nimbus Update](https://our.status.im/tag/nimbus/)
-  * 🔆 [Lighthouse Update](https://lighthouse.sigmaprime.io/)
+* 客户端团队更新
+  * 💠 [Prysmatic Labs 双周开发更新](https://medium.com/prysmatic-labs)
+  * ☁️ [Nimbus团队更新](https://our.status.im/tag/nimbus/)
+  * 🔆 [Lighthouse团队更新](https://lighthouse.sigmaprime.io/)
 
-### Research topics <a id="Research-topics"></a>
+### 研究课题
 
-#### Randomness <a id="Randomness"></a>
+#### 随机性 Randomness
 
-* 🎞️ [@justindrake: Ethereum 2.0 randomness - using a VDF- 2018 Nov @Devcon4](https://slideslive.com/38911623/ethereum-20-randomness)
-* [Verifiable Delay Functions \(VDF\) Research Effort](http://vdfresearch.org/)
+* **\[2018年11月@Devcon4\]** 🎞️ [@justindrake: Ethereum 2.0随机性 - 使用 VDF- 2018年11月 @Devcon4](https://slideslive.com/38911623/ethereum-20-randomness)
+* [可验证延迟函数（Verifiable Delay Functions, VDF\) 研究工作](http://vdfresearch.org/)
 
-#### Phase 2: state execution <a id="Phase-2-state-execution"></a>
+#### Phase 2: 状态执行
 
-* **`Update irregularly`** [ETH 2 Phase 2 WIKI](https://hackmd.io/@villanuevawill/H1hgfATkB)
-  * Execution Environments \(EEs\), Fee markets
-* **\[2019 Oct, Devcon 5\]** [@villanuevawill: Phase 2 Dev Experience ](https://docs.google.com/presentation/d/1Oj96cudOsR1ZvlWneZPk4mo7YWo0wRVX-R-bsNvJStQ/edit#slide=id.g5d36bcd2da_0_0)
+* `**定期更新**` [ETH 2 Phase 2 WIKI](https://hackmd.io/@villanuevawill/H1hgfATkB)
+  * 执行环境\(EEs\), 费用市场
+* **\[2019年10月@Devcon 5\]** [@villanuevawill: Phase 2 开发者经验\(Google文档\)](https://docs.google.com/presentation/d/1Oj96cudOsR1ZvlWneZPk4mo7YWo0wRVX-R-bsNvJStQ/edit#slide=id.g5d36bcd2da_0_0)
 
-#### Economics <a id="Economics"></a>
+#### 经济学Economcis
 
-* [EIP-1559: Fee market](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
-  * [@econoar: Fixing the Ethereum Fee Market \(EIP-1559\)](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b)
+* [EIP-1559: 费用市场](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
+  * [@econoar: 修正以太坊费用市场\(EIP-1559\)](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b)
 
-### Events outputs
+‌
 
-* [Sharding/Eth2.0/Serenity workshops collection](https://github.com/ethereum/eth2.0-pm/blob/master/meetups/collection.md)
+### 活动集锦
+
+‌[Sharding/Eth2.0/Serenity 演讲集合](https://github.com/ethereum/eth2.0-pm/blob/master/meetups/collection.md)
+
+‌
 
 ##  FAQs
 
-> Part of the previous [EF Research AMAs](https://docs.ethhub.io/other/ethereum-2.0-ama/) may be outdated.
+> 在之前的 [以太坊研究Reddit AMAs](https://docs.ethhub.io/other/ethereum-2.0-ama/) 可能包含了相关的话题。
 
-### Roadmaps, plans <a id="Roadmaps-plans"></a>
+### 线路图，计划
 
-#### What’s the Ethereum 2.0 roadmap? <a id="What&#x2019;s-the-Ethereum-20-roadmap"></a>
+#### 什么是以太坊2.0线路图？
 
-> Latest update: 2019, Oct 24th
+> 最近更新: 2019年10月24日
 
-See [@djrtwo - eth2.0; tldr video](https://slideslive.com/38919931/eth-20-tldr) and [slides](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1).
+参照 [@djrtwo - eth2.0简要视频](https://slideslive.com/38919931/eth-20-tldr) and [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1).
 
-#### How and when to merge eth1 chain into eth2? <a id="How-and-when-to-merge-eth1-chain-into-eth2"></a>
+#### eth1什么时候以何种方式并入Eth2？
 
-> Latest update: 2019, Oct 24th
+> 最近更新: 2019年10月24日
 
-Regarding migrating the PoW chain to PoS chain, the most promising proposal is to convert eth1 EVM and history as one of the eth2 Phase 2 Execution Environments \(EEs\). It will minimize the migration requirements for DApps.
+这里涉及到PoW链迁移到PoS链，最可靠的建议是将eth1的EVM和历史记录转换成为eth2 Phase 2的执行环境（EEs）之一，好处是对DApp的迁移要求最低。
 
 Before Phase 2 system is ready, the current PoW eth1 chain and PoS eth2 chain will both exist for a while.
 
-**Reference**
+在Phase 2系统准备好之前，目前的PoW eth1链和PoS eth2链将共存一段时间。
 
-* [Posssible eth1 -&gt; eth2 transition technical proposal on ethresear.ch](https://ethresear.ch/t/the-eth1-eth2-transition/6265)
+**参考**
 
-### Phase 0 beacon chain <a id="Phase-0-beacon-chain"></a>
+* [ethresear.ch论坛上关于eth1 -&gt; eth2转换的可能技术建议](https://ethresear.ch/t/the-eth1-eth2-transition/6265)
 
-#### What I need to do to be a beacon chain validator? <a id="What-I-need-to-do-to-be-a-beacon-chain-validator"></a>
+### Phase 0 信标链
 
-> Latest update: 2019, Oct 24th, need to update the numbers of bandwidth requirements from the spec v0.9 patch.
+#### 要成为信标链的认证者，我需要做什么？
 
-1. In the current proposal, the minimum deposit is 32 ethers.
-2. A normal computer.
-3. Stable network environment.
+> 最近更新: 2019年10月24日
+>
+> 根据规范v0.9补丁的要求，需要对带宽的数量进行升级。
 
-#### When will Phase 0 beacon chain be launched? <a id="When-will-Phase-0-beacon-chain-be-launched"></a>
+1. 在现有的提案里，最低要求是存入32个ether；
+2. 一台普通电脑；
+3. 稳定的网络环境。
 
-> Latest update: 2019, Oct 24th
+#### Phase 0的信标链什么时候发布？
 
-Before launching beacon chain, we have serveral tasks in parrallel:
+> 最近更新: 2019年10月24日
 
-1. The BLS standardization: see [Deposit Contract section from the quick updates](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
-2. The audit:
-   1. Beacon chain protocol
-   2. Deposit contract \(almost done by Runtime Verification team\)
-   3. Client software
-3. Fuzzing tests
-4. The stable multi-client beacon chain testnet: it’s expected that the long-term testnet will be launch in November.
+在发布信标链前，还有几个任务在并行地进行着：
 
-The launching progress is depending on how does the stable multi-client beacon chain testnet works. The testnet will provide valueable data for us to optimize both the efficiency and user experience.
+1. ‌BLS的标准化: 参照 [快速更新中的抵押合约部分](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
+2. 审核:
+   1. 信标链协议；
+   2. 抵押合约\(临近完成，由Runtime Verification team负责\)；
+   3. 客户端软件。
+3. 模糊测试
+4. 稳定的多客户端信标链测试网：期待供长期使用的测试网在11月发布。
 
-#### How’s the liquidity in phase 0 and phase 1? <a id="How&#x2019;s-the-liquidity-in-phase-0-and-phase-1"></a>
+‌The launching progress is depending on how does the stable multi-client beacon chain testnet works. The testnet will provide valueable data for us to optimize both the efficiency and user experience.
 
-> Latest update: 2019, Oct 24th
+发布进度取决于稳定版的多客户端信标链测试网如何工作。测试网将为我们提供有价值的数据去优化效率和使用者体验。
 
-Phase 0 \(beacon chain\) is launching without transfer functionality. The transfer functionality is planned be added in phase 1 or 2.
+#### phase 0 和 phase 1的流动性如何?
 
-### Phase 1 data chain <a id="Phase-1-data-chain"></a>
+> 最近更新: 2019年10月24日
 
-#### What is data availability? Why is it important? <a id="What-is-data-availability-Why-is-it-important"></a>
+Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase 1 或 2提供。
 
-See [data availability notes](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding#what-is-the-data-availability-problem).
+### Phase 1 数据链
 
-#### What is proof of custody? <a id="What-is-proof-of-custody"></a>
+#### 什么是数据可用性? 它为何重要？
 
-See [Serenity Design Rationale - The proof of custody game](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#The-proof-of-custody-game)
+参照 [数据可用性笔记](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding#what-is-the-data-availability-problem).
 
-### Phase 2 state execution <a id="Phase-2-state-execution1"></a>
+#### 什么是托管证明?‌
 
-#### What are all the cross-shard transations mechanisms? <a id="What-are-all-the-cross-shard-transations-mechanisms"></a>
+参照 [Serenity设计理念 - 托管权证明](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#The-proof-of-custody-game)
 
-See [Phase 2 WIKI - Cross Shard Transactions](https://hackmd.io/UzysWse1Th240HELswKqVA#Cross-Shard-Transactions).
+### Phase 2 状态执行
 
-### Misc <a id="Misc"></a>
+#### 什么是跨分片交易机制？
 
-#### Why not EIP-1011 \(Casper FFG Contract\)? <a id="Why-not-EIP-1011-Casper-FFG-Contract"></a>
+参照 [Phase 2 WIKI - 跨分片Cross Shard转账 交易](https://hackmd.io/UzysWse1Th240HELswKqVA#Cross-Shard-Transactions).
 
-* [@djrtwo - signatures, competing games, and tx parallelization](https://notes.ethereum.org/s/rJDrKoBOQ)
-* [@djrtwo - Casper ♥ Sharding \(June 2018\)](https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121)
+### 杂项
 
-#### How to become an Ethereum 2.0 developer? <a id="How-to-become-an-Ethereum-20-developer"></a>
+#### 为什么放弃EIP-1011 \(Casper FFG合约\)?
 
-1. Look around the [client teams repositories](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), find an issue, and solve it!
-   * Even finding typos would be appreciated! :\)
-   * If you have your language preference, there are Go, Java, JavaScript, Nim, Python, Rust… languages!
-   * Some of the teams are still hiring, don’t be afraid to ask.
-2. Get familar with [specs](https://github.com/ethereum/eth2.0-specs). See if you can [find a bug and get 5 ETH](https://github.com/ethereum/eth2.0-specs/issues/1345).
+* [@djrtwo - 签名，竞争性游戏，和tx并行性](https://notes.ethereum.org/s/rJDrKoBOQ)
+* [@djrtwo - Casper ♥ Sharding \(2018年6月\)](https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121)
 
-### Still have question? <a id="Still-have-question"></a>
+#### 如何成为一名以太坊2.0开发者？
 
-* Welcome to the [discord](https://discord.gg/hpFs23p) or [bridged gitter channel](https://gitter.im/ethereum/sharding)! 👋
+1. 逛逛 [客户端仓库](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), 找出问题，干它!
+   * 能够发现错别字也是帮忙 :\)
+   * 如果有你喜好的语言，包括 Go, Java, JavaScript, Nim, Python, Rust… 一众语言!
+   * 有些团队还在请人，不要害怕去询问。
+2. 熟悉 [规范](https://github.com/ethereum/eth2.0-specs). 看看是否能够 [找bug奖励5 ETH](https://github.com/ethereum/eth2.0-specs/issues/1345).
+
+### 还是一脸懵？
+
+* 欢迎来到 [discord](https://discord.gg/hpFs23p) or [gitter频道l](https://gitter.im/ethereum/sharding)! 👋
 
