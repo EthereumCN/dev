@@ -24,7 +24,7 @@
 
   总结：路线图的历史与未来。
 
-* **\[2019年10月@Devcon5\]** 🎞️ [Danny Ryan - eth2.0简介视频](https://slideslive.com/38919931/eth-20-tldr) and [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1)
+* **\[2019年10月@Devcon5\]** 🎞️ [Danny Ryan - eth2.0简介视频](https://slideslive.com/38919931/eth-20-tldr) 和 [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1)
 
    以太坊2.0阶段的最新进阶介绍
 
@@ -32,15 +32,15 @@
 
   更多不错的资源。
 
-* `**不定期更新**` [Two Point Oh](https://our.status.im/tag/two-point-oh/) - 由 [status-im/the-explainers](https://github.com/status-im/the-explainers/)更新维护，中文版由[ECN: Ethereum.cn以太坊中文网](%20https://eth2.ethereum.cn/eth-2.0-jin-zhan/two-point-oh%20)更新。
+* `**不定期更新**` [Two Point Oh](https://our.status.im/tag/two-point-oh/) - 由 [status-im/the-explainers](https://github.com/status-im/the-explainers/)更新维护，中文版由[ECN\(Ethereum.cn\) 以太坊中文网](%20https://eth2.ethereum.cn/eth-2.0-jin-zhan/two-point-oh%20)更新。
 
 #### 🤓 Level 2: 如果想练九阳神功，入这个无底之洞吧！
 
-* 🌟 `**定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs); 2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
+* 🌟 `**定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs);  2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
 * 必读武功秘籍
   * `**定期更新**` 1. [Serenity宁静阶段的设计理念](https://notes.ethereum.org/@vbuterin/rkhCgQteN) - \(2019年8月文档\)；2. [ECN中文整理](%20https://eth2.ethereum.cn/research/serenity/rationale%20)；
-  * `**定期更新**` 1. [Phase 0规范图示](https://github.com/protolambda/eth2-docs) 2. ECN中文网整理
-  * **\[2019年10月 @Devcon5, 规范v8版本\]** Phase 0 之高级修练 [Google演示文档](https://docs.google.com/presentation/d/1MZ-E6TVwomt4rqz-P2Bd_X3DFUW9fWDQkxUP_QJhkyw/edit?pli=1#slide=id.g621e1673fb_21_195) and [视频@3h58m40s](https://slideslive.com/38919736/devcon5-convention-room-day2)
+  * `**定期更新**`  [Phase 0规范图示](https://github.com/protolambda/eth2-docs)  
+  * **\[2019年10月 @Devcon5, 规范v8版本\]** Phase 0 之高级修练 [Google演示文档](https://docs.google.com/presentation/d/1MZ-E6TVwomt4rqz-P2Bd_X3DFUW9fWDQkxUP_QJhkyw/edit?pli=1#slide=id.g621e1673fb_21_195) 和 [视频@3h58m40s](https://slideslive.com/38919736/devcon5-convention-room-day2)
 
     ‌
 
@@ -57,7 +57,7 @@
 * `**定期更新**` [以太坊分片研究纲要](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
   * Vitalik的笔记收集，其中包括一些一些PoS相关的资源。
 * `**定期更新**` [Vitalik关于分片的思维导图](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
-* **\[2018年7月@IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: 分片技术：创建可扩容性、去中心化和安全的区块链。 - [视频](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) and [演示文档](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
+* **\[2018年7月@IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: 分片技术：创建可扩容性、去中心化和安全的区块链。 - [视频](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) 和 [演示文档](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
 
 **Proof-of-Stake, Casper**
 
@@ -68,8 +68,8 @@
 
 * 🎙 [ETH2.0 实施者双周电话会议](https://github.com/ethereum/eth2.0-pm/)
 * 🗂 [eth2.info](https://eth2.info/) - 由Ben Edgington \(PegaSys, ConsenSys\)维护；
-* 定期出版
-  * 🦄 [Ethereum Foundation blog - eth2 quick update](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
+* 定期发布
+  * 🦄 [以太坊基金会博客 - eth2更新速递](https://blog.ethereum.org/2019/10/23/eth2-quick-update/)
   * 📣 [Week in Ethereum News](http://www.weekinethereum.com/) - by Evan Van Ness
   * 🆕 [What’s New in Eth2?](http://eth2.news/) - by Ben Edgington \(PegaSys, ConsenSys\)
 * 客户端团队更新
