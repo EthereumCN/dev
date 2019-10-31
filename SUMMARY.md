@@ -5,7 +5,7 @@
 
 ## ETH2.0
 
-* [ETH2.0开发者手册和常见问题](eth2.0/eth2-devs-handbook-faqs.md)
+* [ETH2.0开发者手册和常见问题](eth2.0/eth2-handbook-faqs.md)
 * [Headline](eth2.0/headline.md)
 * [Learning Ethereum 2.0](eth2.0/learning-ethereum-2.0.md)
 * [Untitled](eth2.0/untitled-2.md)
