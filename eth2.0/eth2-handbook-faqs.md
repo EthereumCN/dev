@@ -200,5 +200,9 @@ Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase
 
 * 欢迎来到 [discord](https://discord.gg/hpFs23p) or [gitter频道l](https://gitter.im/ethereum/sharding)! 👋
 
-### 此文档由[ECN\(Ethereum.cn\)](https://ethereum.cn)小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
+## 后记
+
+### 文档由[ECN\(Ethereum.cn\)](https://ethereum.cn)小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
+
+### 我们会及时更新相关内容，请关注[eth2.ethereum.cn](https://Eth2.ethereum.cn)
 
