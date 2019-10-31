@@ -9,10 +9,12 @@
 ## 总列表
 
 * 2019年10月29日：[规范v0.9.0发布](https://eth2.ethereum.cn/eth2-specs/v0.9.0)，精华解读也准备在路上了。
-* 学习以太坊2.0
-* 目前进展
-* 研究主题
-* 活动
+* 以太坊2.0开发者手册
+  * [学习以太坊2.0](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-handbook-faqs#xue-xi-yi-tai-fang-2-0)
+  * [目前进展](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-handbook-faqs#mu-qian-jin-zhan)
+  * [研究课题](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-handbook-faqs#yan-jiu-ke-ti)
+  * [活动集锦](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-handbook-faqs#huo-dong-ji-jin)
+* [常见问题FAQs](https://app.gitbook.com/@ecn/s/-dev/eth2.0/eth2-handbook-faqs#faqs)
 
 ### 学习以太坊2.0
 
