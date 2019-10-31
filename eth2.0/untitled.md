@@ -6,13 +6,13 @@
 * 这个文档是精华中的精华，可能其它地方也出现过类似的文档，我们尝试把最有用的东西收集到这里。It’s a collection of collections; the same resource may overlap in different links. Although we would try to sort by difficulty levels.
 * 请注意，ETH2.0在以太坊基金会的主导下正如火如荼的建设中，有些内容可能迅速修改和抛弃，请多留意我们的最新文档更新。
 
-## 总舵
+## 总列表
 
 * 2019年10月29日：[规范v0.9.0发布](https://eth2.ethereum.cn/eth2-specs/v0.9.0)，精华解读也准备在路上了。
-
-
-
-###  <a id="Learning-Ethereum-20"></a>
+* 学习以太坊2.0
+* 目前进展
+* 研究主题
+* 活动
 
 ### Learning Ethereum 2.0 <a id="Learning-Ethereum-20"></a>
 
@@ -85,11 +85,11 @@
 * [EIP-1559: Fee market](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
   * [@econoar: Fixing the Ethereum Fee Market \(EIP-1559\)](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b)
 
-### Events outputs <a id="Events-outputs"></a>
+### Events outputs
 
 * [Sharding/Eth2.0/Serenity workshops collection](https://github.com/ethereum/eth2.0-pm/blob/master/meetups/collection.md)
 
-## ![handbook](https://storage.googleapis.com/ethereum-hackmd/upload_5757ff71b998715ddb4e1f82f4037f26.png) FAQs <a id="-FAQs"></a>
+##  FAQs
 
 > Part of the previous [EF Research AMAs](https://docs.ethhub.io/other/ethereum-2.0-ama/) may be outdated.
 
