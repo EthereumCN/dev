@@ -113,7 +113,7 @@
 
 > 最近更新: 2019年10月24日
 
-参照 [@djrtwo - eth2.0简要视频](https://slideslive.com/38919931/eth-20-tldr) and [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1).
+参照 [@djrtwo - eth2.0简要视频](https://slideslive.com/38919931/eth-20-tldr) 和 [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1).
 
 #### eth1什么时候以何种方式并入Eth2？
 
@@ -121,13 +121,11 @@
 
 这里涉及到PoW链迁移到PoS链，最可靠的建议是将eth1的EVM和历史记录转换成为eth2 Phase 2的执行环境（EEs）之一，好处是对DApp的迁移要求最低。
 
-Before Phase 2 system is ready, the current PoW eth1 chain and PoS eth2 chain will both exist for a while.
-
 在Phase 2系统准备好之前，目前的PoW eth1链和PoS eth2链将共存一段时间。
 
 **参考**
 
-* [ethresear.ch论坛上关于eth1 -&gt; eth2转换的可能技术建议](https://ethresear.ch/t/the-eth1-eth2-transition/6265)
+* [ethresear.ch论坛上关于eth1 -&gt; eth2转换的技术可能性建议](https://ethresear.ch/t/the-eth1-eth2-transition/6265)
 
 ### Phase 0 信标链
 
@@ -137,7 +135,7 @@ Before Phase 2 system is ready, the current PoW eth1 chain and PoS eth2 chain wi
 >
 > 根据规范v0.9补丁的要求，需要对带宽的数量进行升级。
 
-1. 在现有的提案里，最低要求是存入32个ether；
+1. 在现有的提案里，最低要求是抵押32个ether；
 2. 一台普通电脑；
 3. 稳定的网络环境。
 
@@ -155,9 +153,7 @@ Before Phase 2 system is ready, the current PoW eth1 chain and PoS eth2 chain wi
 3. 模糊测试
 4. 稳定的多客户端信标链测试网：期待供长期使用的测试网在11月发布。
 
-‌The launching progress is depending on how does the stable multi-client beacon chain testnet works. The testnet will provide valueable data for us to optimize both the efficiency and user experience.
-
-发布进度取决于稳定版的多客户端信标链测试网如何工作。测试网将为我们提供有价值的数据去优化效率和使用者体验。
+‌发布进度取决于稳定版的多客户端信标链测试网如何工作。测试网将为我们提供有价值的数据去优化效率和使用者体验。
 
 #### phase 0 和 phase 1的流动性如何?
 
@@ -198,11 +194,11 @@ Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase
 
 ### 还是一脸懵？
 
-* 欢迎来到 [discord](https://discord.gg/hpFs23p) or [gitter频道l](https://gitter.im/ethereum/sharding)! 👋
+* 欢迎来到 [discord](https://discord.gg/hpFs23p) 或者 [gitter频道l](https://gitter.im/ethereum/sharding)! 👋
 
 ## 后记
 
-### 文档由[ECN\(Ethereum.cn\)](https://ethereum.cn)小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
+### 本手册由[ECN\(Ethereum.cn\)](https://ethereum.cn)翻译小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
 
-### 我们会及时更新相关内容，请关注[eth2.ethereum.cn](https://Eth2.ethereum.cn)
+### 我们会及时更新eth2相关内容，请关注[eth2.ethereum.cn](https://Eth2.ethereum.cn)
 
