@@ -55,7 +55,7 @@
 * `**定期更新**` [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
   * 什么是区块链分片？不同的分片跨链通讯方式有何差异？
 * `**定期更新**` [以太坊分片研究纲要](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
-  * Vitalik的笔记收集，其中包括一些一些PoS相关的资源。
+  * Vitalik的笔记收集，其中包括一些PoS相关资源。
 * `**定期更新**` [Vitalik关于分片的思维导图](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
 * **\[2018年7月@IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: 分片技术：创建可扩容性、去中心化和安全的区块链。 - [视频](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) 和 [演示文档](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
 
