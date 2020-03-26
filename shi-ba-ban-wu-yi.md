@@ -36,32 +36,32 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 
 * [Truffle](https://trufflesuite.com/) - 主流智能合约开发、测试和部署框架。Truffle套件包括Truffle、[Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). （[教程](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)）
 * [Embark](https://github.com/embark-framework/embark) - DApp开发框架
-* [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast \(based on ethers.js\)
-* [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
-* [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
-* [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
-* [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
-* [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
-* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
-* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine\(EVM\).
+* [Waffle](https://getwaffle.io/) - 小型、灵活、快速的高级智能合约开发和测试框架（基于ethers.js）
+* [Dapp](https://dapp.tools/dapp/) - DApp开发框架
+* [Etherlime](https://github.com/LimeChain/etherlime) - 基于ethers.js的DApp部署框架
+* [Parasol](https://github.com/Lamarkaz/parasol) - 具备测试、Infura部署、自动合约文档等功能的智能合约开发环境
+* [0xcert](https://github.com/0xcert/framework/) - 编写DApp的JavaScript框架
+* [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - 一套协助开发、编译、升级、部署智能合约并与之交互的工具
+* [sbt-ethereum](https://sbt-ethereum.io/) - 制表符完整的、基于文本的控制台，用于智能合约交互和开发，包括钱包和ABI管理、ENS支持以及高级Scala集成
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Python框架，用于以太坊智能合约部署、测试、交互
+* [Cobra](https://github.com/cobraframework/cobra) - 灵活简易的以太坊智能合约开发环境框架，在EVM上进行测试和部署
 
 #### IDEs
 
-* [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
-* [Ethereum Studio](https://studio.ethereum.org/) - Web IDE. Built in browser blockchain VM, Metamask integration \(one click deployments to Testnet/Mainnet\), transaction logger and live code your WebApp among many other features.
-* [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
-* [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
-* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
-* [Ethcode](https://marketplace.visualstudio.com/items?itemName=quantanetwork.ethcode) - Visual Studio Code extension to compile, execute & debug Solidity & Vyper programs
-* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://jetbrains.com/idea/) \(free/commercial\) with syntax highlighting, formatting, code completion etc.
-* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
-* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
+* [Remix](https://remix.ethereum.org/) - 具有内置静态分析功能的Web IDE，可测试区块链虚拟机
+* [Ethereum Studio](https://studio.ethereum.org/) - 网页IDE。内置浏览器区块链虚拟机，Metamask集成（一键测试网/主网部署），包括事务记录器和实时编码WebApp等众多其他功能。
+* [Atom](https://atom.io/) - 原子编辑器
+* [Vim solidity](https://github.com/tomlion/vim-solidity) - Solidity Vim语法文件
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code扩展，增加对Solidity的支持
+* [Ethcode](https://marketplace.visualstudio.com/items?itemName=quantanetwork.ethcode) - Visual Studio Code扩展，用于编译、执行和调试Solidity＆Vyper程序
+* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity) - JetBrains IntelliJ Idea IDE（免费/商业）的开源插件，具有语法高亮、格式设置、代码完成等功能
+* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - 基于Eclipse的IDE。具有代码完成和帮助、代码导航、语法着色、内置编译器、快速修复和模板功能。
+* [Eth Fiddle](https://ethfiddle.com/) - [Loom Network](https://loomx.io/)开发的IDE，可编写、编译和调试智能合约。易于共享和查找代码片段。
 
-### Other tools
+### 其他工具
 
-* [Atra Blockchain Services](https://console.atra.io/) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
-* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
+* [Atra Blockchain Services](https://console.atra.io/) - Atra提供Web服务在以太坊区块链上构建、部署和维护去中心化应用程序。
+* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.可扩展的开发人员工具通过可靠地整合他们想要的工具来帮助智能合约开发人员提高生产率。
 * [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
 
 ### Test blockchain networks
