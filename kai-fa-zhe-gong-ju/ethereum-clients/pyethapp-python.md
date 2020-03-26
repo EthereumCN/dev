@@ -1,2 +1,0 @@
-# Pyethapp\(Python\)
-
