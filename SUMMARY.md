@@ -9,13 +9,13 @@
 
 ## 十八般武艺 <a id="kai-fa-zhe-gong-ju"></a>
 
-* [基础工具](kai-fa-zhe-gong-ju/ji-chu-gong-ju/README.md)
-  * [Infura](kai-fa-zhe-gong-ju/ji-chu-gong-ju/infura.md)
-  * [Truffle](kai-fa-zhe-gong-ju/ji-chu-gong-ju/truffle.md)
-  * [Kauri](kai-fa-zhe-gong-ju/ji-chu-gong-ju/kauri.md)
-  * [MetaMask](kai-fa-zhe-gong-ju/ji-chu-gong-ju/metamask.md)
-  * [Liquality](kai-fa-zhe-gong-ju/ji-chu-gong-ju/liquality.md)
-  * [Rhombus](kai-fa-zhe-gong-ju/ji-chu-gong-ju/rhombus.md)
+* [基础工具](kai-fa-zhe-gong-ju/basic-tools/README.md)
+  * [Infura](kai-fa-zhe-gong-ju/basic-tools/infura.md)
+  * [Truffle](kai-fa-zhe-gong-ju/basic-tools/truffle.md)
+  * [Kauri](kai-fa-zhe-gong-ju/basic-tools/kauri.md)
+  * [MetaMask](kai-fa-zhe-gong-ju/basic-tools/metamask.md)
+  * [Liquality](kai-fa-zhe-gong-ju/basic-tools/liquality.md)
+  * [Rhombus](kai-fa-zhe-gong-ju/basic-tools/rhombus.md)
 * [智能合约语言](kai-fa-zhe-gong-ju/zhi-neng-he-yue-yu-yan/README.md)
   * [Solidity](kai-fa-zhe-gong-ju/zhi-neng-he-yue-yu-yan/solidity/README.md)
     * [开发文档](kai-fa-zhe-gong-ju/zhi-neng-he-yue-yu-yan/solidity/kai-fa-wen-dang.md)
