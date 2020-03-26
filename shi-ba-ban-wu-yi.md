@@ -22,21 +22,20 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 * [Kauri.io](https://kauri.io/) _基于社区的Web3和新兴技术知识平台_
 * [dfuse](https://dfuse.io/) _易用的区块链API，构建一流的DApp_
 
-## Developer Tools
+## 开发工具
 
-### Developing Smart Contracts
+### 智能合约开发
 
-#### Smart Contract Languages
+#### 智能合约语言
 
-* [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
-* [Bamboo](https://github.com/CornellBlockchain/bamboo) - A morphing smart contract language
-* [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
-* [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
+* [Solidity](https://solidity.readthedocs.io/en/latest/) - 以太坊智能合约编程语言
+* [Vyper](https://vyper.readthedocs.io/en/latest/) - 实验性python式编程语言
+* [Flint](https://github.com/flintlang/flint) - 具有安全功能的新智能合约编程语言，包含资产类型、状态转换和安全整数，仍处于开发阶段
 
-#### Frameworks
+#### 框架
 
-* [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
-* [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+* [Truffle](https://trufflesuite.com/) - 主流智能合约开发、测试和部署框架。Truffle套件包括Truffle、[Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). （[教程](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)）
+* [Embark](https://github.com/embark-framework/embark) - DApp开发框架
 * [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast \(based on ethers.js\)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
