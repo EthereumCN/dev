@@ -10,17 +10,17 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 
 ## 极速上手工具
 
-* [Solidity](https://solidity.readthedocs.io/en/latest/) - 主流智能合约编程语言
-* [Truffle](https://trufflesuite.com/) - 主流智能合约开发、测试和部署框架。通过npm安装cli，然后就可以开始编写您的第一个智能合约。
-* [Metamask](https://metamask.io/) -可与Dapps进行交互的Chrome插件钱包。
-* [Truffle boxes](https://trufflesuite.com/boxes) -以太坊生态系统的打包组件。
-* [OpenZeppelin Starter Kits](https://openzeppelin.com/starter-kits/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, OpenZeppelin SDK, the OpenZeppelin/contracts-ethereum-package EVM package of audited smart contract, a react-app and rimble for easy styling.
-* [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
-* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine\(EVM\).
-* [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
-* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
-* [Kauri.io](https://kauri.io/) - A community based knowledge platform for web3 and emerging technologies. Share curated content and collaborate on up-to-date and high-quality technical articles and series. Checkout the [Getting Started community](https://kauri.io/community/5d9b16fc890d310001b66e1b) to learn the basics.
-* [dfuse](https://dfuse.io/) - Slick blockchain APIs to build world-class applications.
+* [Solidity](https://solidity.readthedocs.io/en/latest/)  _主流智能合约编程语言_
+* [Truffle](https://trufflesuite.com/) _主流智能合约开发、测试和部署框架。通过npm安装cli，然后就可以开始编写您的第一个智能合约_
+* [Metamask](https://metamask.io/) _可与Dapps进行交互的Chrome插件钱包_
+* [Truffle boxes](https://trufflesuite.com/boxes) _以太坊生态系统的打包组件_
+* [OpenZeppelin Starter Kits](https://openzeppelin.com/starter-kits/) _多合一入门工具箱，供开发人员快速上手基于智能合约的应用程序。包括Truffle、OpenZeppelin SDK、OpenZeppelin/contracts-ethereum-package EVM软件包、react-app和rimble_
+* [EthHub.io](https://docs.ethhub.io/) _针对以太坊历史、治理、发展计划和开发资源的全面介绍_
+* [Cobra](https://github.com/cobraframework/cobra) _快速，灵活、简单的以太坊智能合约开发环境框架，在以太坊虚拟机 \(EVM\) 上进行测试和部署_
+* [Fortmatic](https://fortmatic.com/) _易于使用的SDK，无需扩展或下载即可构建web3 DApp_
+* [Portis](https://portis.io/) _配备SDK的非托管钱包，可轻松与DApp进行交互而无需其他安装_
+* [Kauri.io](https://kauri.io/) _基于社区的Web3和新兴技术知识平台_
+* [dfuse](https://dfuse.io/) _易用的区块链API，构建一流的DApp_
 
 ## Developer Tools
 
