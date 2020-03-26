@@ -61,26 +61,28 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 ### 其他工具
 
 * [Atra Blockchain Services](https://console.atra.io/) - Atra提供Web服务在以太坊区块链上构建、部署和维护去中心化应用程序。
-* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.可扩展的开发人员工具通过可靠地整合他们想要的工具来帮助智能合约开发人员提高生产率。
-* [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
+* [Buidler](https://buidler.dev/) - 可扩展的开发人员工具，通过整合工具提高智能合约开发者效率
+* [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode扩展允许创建智能合约并将其部署到Visual Studio Code中
 
-### Test blockchain networks
+### 网络测试工具
 
-* [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node \(Geth or Parity\) for development, as easy as `npm i -g ethnode && ethnode`.
-* [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
-* [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
-* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container \*\* [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys \*\* [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
-* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
-* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
-* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
-* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
-* [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain/templates/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
-* [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
-* [Infura](https://infura.io/) - Ethereum API access to Ethereum networks \(Mainnet, Ropsten, Rinkeby, Goerli, Kovan\)
-* [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
-* [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service \(Mainnet, Ropsten\)
+* [ethnode](https://github.com/vrde/ethnode) - 运行以太坊节点（Geth或Parity）进行开发和测试
+* [Ganache](https://github.com/trufflesuite/ganache) - 具有可视化UI和日志的以太坊区块链的测试类应用程序
+* [Kaleido](https://kaleido.io/) - 使用Kaleido扩展联盟区块链网络，非常适合PoC和测试
+* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 在Docker容器中运行Besu节点的专用网络
+* [Orion](https://github.com/PegaSysEng/orion) - PegaSys开发的执行私有交易的组件
+* [Artemis](https://github.com/PegaSysEng/artemis) - PegaSys的以太坊2.0信标链Java实现
+* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 使用与真实区块链网络极为相似的Docker实例简化智能合约应用程序的集成和验收测试
+* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - 在Docker容器中运行本地Raiden网络以进行演示和测试
+* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - 私有PoA网络的现成部署脚本
+* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - 私有PoW网络的现成部署脚本
+* [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain/templates/ethereum-poa-deployment) - 联盟以太坊PoA网络的部署和治理
+* [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - 基于PoW构建以太坊网络
+* [Infura](https://infura.io/) - 访问以太坊网络的API（主网/Ropsten/Rinkeby/Goerli/Kovan）
+* [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - 通过Cloudflare对以太坊网络进行访问，而无需运行的节点
+* [Chainstack](https://chainstack.com/) - 共享和专用的以太坊节点即服务（主网/Ropsten）
 
-#### Test Ether faucets
+#### Ether水龙头 \(Faucets\)
 
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
@@ -89,31 +91,31 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C\#/.NET faucet
 
-### Communicating with Ethereum
+### 以太坊通信
 
-#### Frontend Ethereum APIs
+#### 前端以太坊APIs
 
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
-  * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
-  * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
-  * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
-  * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
-  * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-  * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
-  * [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
-  * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
-* [Nethereum](https://github.com/Nethereum/) - Cross-platform Ethereum development framework
-* [dfuse](https://github.com/dfuse-io/client-js) - A TypeScript library to use [dfuse Ethereum API](https://dfuse.io/)
-* [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
-* [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
-* [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) \(including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp\)
-* [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
-* [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
-* Strictly Typed - Javascript alternatives
+  * [Eth.js](https://github.com/ethjs) - Javascript Web3替代
+  * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3替代，实用程序和钱包功能
+  * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) - 轻客户端优化的高级反应式JS库
+  * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - TypeScript语言Web3替代
+  * [Ethereumjs](https://github.com/ethereumjs/) - 以太坊实用程序功能集合，例如[ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)和[ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+  * [flex-contract](https://github.com/merklejerk/flex-contract)及[flex-ether](https://github.com/merklejerk/flex-ether) - 现代化的零配置高级库，用于与智能合约进行交互并进行交易
+  * [ez-ens](https://github.com/merklejerk/ez-ens) - 简单的零配置以太坊域名服务（ENS）地址解析器
+  * [web3x](https://github.com/xf00f/web3x) - web3.js的TypeScript端口。结构小巧和全类型安全性，包括合约交互安全性
+* [Nethereum](https://github.com/Nethereum/) - 跨平台以太坊开发框架
+* [dfuse](https://github.com/dfuse-io/client-js) - 以使用[dfuse Ethereum API](https://dfuse.io/)的TypeScript库
+* [Drizzle](https://github.com/truffle-box/drizzle-box) - 将前端连接到区块链的Redux库
+* [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - JavaScript SDK，使用React Native制作本地以太坊移动DApp
+* [Subproviders](https://0x.org/docs/tools/subproviders) - 几个有用的子提供程序，可与Web3-provider-engine结合使用（包括一个LedgerSubprovider，用于为DApp添加Ledger硬件钱包支持）
+* [web3-react](https://github.com/NoahZinsmeister/web3-react) - 用于构建单页以太坊DApp的React框架
+* [ethvtx](https://github.com/ticket721/ethvtx) - 支持以太坊且框架不可知的Redux存储配置（[文档](https://ticket721.github.io/ethvtx/)）
+* 严格类型 - Javascript替代
   * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
   * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
-* [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains \(including Ethereum\) using a single interface.
-* [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
+* [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - 通过单个界面与不同的区块链（包括以太坊）进行通信。
+* [Delphereum](https://github.com/svanas/delphereum) - 以太坊区块链的Delphi接口，可以开发适用于Windows/macOS/iOS和Android的本地DApp
 
 #### Backend Ethereum APIs
 
