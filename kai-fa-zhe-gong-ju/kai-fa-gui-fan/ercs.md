@@ -1,3 +1,10 @@
+---
+description: >-
+  ERCs (Ethereum Request for Comments) are technical documents used by smart
+  contract developers at Ethereum. They define a set of rules required to
+  implement tokens for the Ethereum ecosystem. These do
+---
+
 # ERCs
 
 ### Last Call <a id="last-call"></a>
