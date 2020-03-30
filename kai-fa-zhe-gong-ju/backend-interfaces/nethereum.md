@@ -2,7 +2,11 @@
 
 [![Nethereum Logo-1](https://ethereum.consensys.net/hs-fs/hubfs/Nethereum%20Logo-1.png?width=312&name=Nethereum%20Logo-1.png)](http://bit.ly/nethereum-devportal)
 
-**Nethereum** 
+**Nethereum**是一个以太坊的 .NET 集成库，允许用户使用PRC与以太坊客户端如Geth和Parity进行交互。
 
-A .NET integration library for Ethereum allowing users to interact with Ethereum clients like Geth or Parity using RPC.
+#### 
+
+#### 官网
+
+* [https://nethereum.com/](https://nethereum.com/)
 
