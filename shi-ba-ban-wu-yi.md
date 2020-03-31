@@ -127,30 +127,30 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
-* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
-* [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
-* [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to \(or on top of\) Infura. Written in Golang.
-* [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
-* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
-* [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
-* [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
+* [Eventeum](https://github.com/ConsenSys/eventeum) -Kauri用Java编写的以太坊智能合约事件和后端微服务之间的桥接
+* [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 以太坊区块链的Elixir JSON-RPC客户端
+* [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - 允许运行多个以太坊节点以实现冗余和负载平衡的网管。可作为Infura替代（或在其之上）运行，以Go语言编写。
+* [EthContract](https://github.com/AgileAlpha/eth_contract) - 在Elixir中查询ETH智能合约的辅助方法
+* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - MESG服务，可根据其地址和ABI与任何以太坊合约进行交互
+* [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - MESG服务，用于与以太坊中的事件进行交互
+* [Marmo](https://marmo.io/) - Python，JS和Java SDK，用于简化与以太坊的交互，将交易成本转移给中继器
 
 #### Bootstrap/out of box tools
 
-* [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
-* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
-* [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response \(PoA\) \*\* [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer \(functional sample\)
-* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
-* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
-* [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
-* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
-* [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
-* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI is used to create and develop Aragon apps and organizations.
-* [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
-* [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
-* [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
-* [Blocknative](https://blocknative.com/) - Assist.js is an embeddable widget that improves Dapp usability. The tool programmatically identifies and outlines clear actions for end-users to follow when interacting with MetaMask to overcome — and even prevent — common pitfalls and obstacles.
+* [Truffle boxes](https://trufflesuite.com/boxes) - 以太坊生态系统的打包组件
+* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 在Docker容器中运行Besu节点的专用网络
+* [Testchains](https://github.com/Nethereum/TestChains) - 预先配置的.NET开发链以实现快速响应（PoA）
+* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - 在Docker容器中运行本地Raiden网络以进行演示和测试
+* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - 专用PoA网络的现成部署脚本
+* [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) -使用两个节点搭建PoA测试链的教程
+* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - 专用PoW网络的现成部署脚本
+* [Kaleido](https://kaleido.io/) - 使用Kaleido扩展联盟区块链网络，非常适合PoC和测试
+* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - CryptoKitties API和智能合约的本地沙盒实现，可以作为Truffle Box使用
+* [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI用于创建和开发Aragon应用程序和组织。
+* [ColonyJS](https://github.com/JoinColony/colonyJS) - 用于与Colony Network智能合约交互API的JavaScript客户端
+* [ArcJS](https://github.com/daostack/arc.js) - 便于javascript应用程序访问DAOstack Arc以太坊智能合约的库
+* [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - 用于与Arkane Network进行交互的API的JavaScript客户端
+* [Blocknative](https://blocknative.com/) - Assist.js是可嵌入的小部件，可提高DApp可用性。该工具以编程形式识别并给出了清晰的操作，便于终端用户与MetaMask交互，以克服（甚至防止）常见的陷阱和障碍
 
 #### Ethereum ABI \(Application Binary Interface\) tools
 
