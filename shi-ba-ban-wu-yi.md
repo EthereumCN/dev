@@ -100,7 +100,7 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
   * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3替代，实用程序和钱包功能
   * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) - 轻客户端优化的高级反应式JS库
   * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - TypeScript语言Web3替代
-  * [Ethereumjs](https://github.com/ethereumjs/) - 以太坊实用程序功能集合，例如[ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)和[ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+  * [Ethereumjs](https://github.com/ethereumjs/) - 以太坊实用程序功能集合，例如 [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 和 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
   * [flex-contract](https://github.com/merklejerk/flex-contract)及[flex-ether](https://github.com/merklejerk/flex-ether) - 现代化的零配置高级库，用于与智能合约进行交互并进行交易
   * [ez-ens](https://github.com/merklejerk/ez-ens) - 简单的零配置以太坊域名服务（ENS）地址解析器
   * [web3x](https://github.com/xf00f/web3x) - web3.js的TypeScript端口。结构小巧和全类型安全性，包括合约交互安全性
@@ -152,44 +152,45 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - 用于与Arkane Network进行交互的API的JavaScript客户端
 * [Blocknative](https://blocknative.com/) - Assist.js是可嵌入的小部件，可提高DApp可用性。该工具以编程形式识别并给出了清晰的操作，便于终端用户与MetaMask交互，以克服（甚至防止）常见的陷阱和障碍
 
-#### Ethereum ABI \(Application Binary Interface\) tools
+### 以太坊ABI工具
 
-* [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
-* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
-* [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
-* [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
-* [One Click dApp](https://oneclickdapp.com/) - Instantly create a dApp at a unique URL using the ABI.
-* [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
-* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
-* [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C\# Interface and Service based on Solidity Smart Contracts.
+Application Binary Interface 应用程序二进制接口
 
-#### Patterns & Best Practices
+* [ABI decoder](https://github.com/ConsenSys/abi-decoder) - 用于解码以太坊交易中数据参数和事件的库
+* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - 从合约ABI生成Typescript合约包装程序
+* [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 从以太坊合约ABI自动生成UI表单字段定义和关联的验证器
+* [headlong](https://github.com/esaulpaugh/headlong/) - 类型安全的合约ABI和递归长度前缀Java库
+* [One Click dApp](https://oneclickdapp.com/) - 使用ABI在唯一的URL上立即生成DApp
+* [Truffle Pig](https://npmjs.com/package/trufflepig) - 开发工具，提供简单的HTTP API来查找和读取Truffle生成的合约文件，以便在本地开发时使用，通过http提供新的合约ABI
+* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - MESG服务，可根据其地址和ABI与任何以太坊合约进行交互
+* [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - 基于Web的生成器，可基于Solidity智能合约创建基于Nethereum的C\#接口和服务
 
-**Patterns for Smart Contract Development**
+#### 模式&最佳实践
 
-* [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
-  * has solutions for common problems in Ethereum/Solidity, eg.
-    * [Whitelisting](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
-    * [Upgradable ERC20-Token](https://steemit.com/ethereum/@nikolai/dapp-a-day-6-upgradeable-tokens)
-    * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
-    * [Authentication \(RBAC\)](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
-    * [...several more...](https://github.com/dapphub/dappsys)
-  * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://github.com/ryepdx/the-tao)
-  * should be consulted before creating own, untested, solutions
-  * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [OpenZeppelin Contracts: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  * Likely the most widely-used libraries and smart contracts
-  * Similar to Dappsys, more integrated into Truffle framework
-  * [Blog about Best Practices with Security Audits](https://blog.openzeppelin.com/)
-* [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
-* [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
-* [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
-* [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
-  * Upgradeability: Smart contracts can be upgraded to a newer version
-  * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
-  * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
+**智能合约开发模式**
 
-**Upgradeability**
+* [Dappsys: ](https://github.com/dapphub/dappsys)安全、简单、灵活的以太坊合约基础模块
+  * 为以太坊/Solidity中的常见问题提供解决方案
+    * [白名单](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
+    * [可升级的ERC20通证](https://steemit.com/ethereum/@nikolai/dapp-a-day-6-upgradeable-tokens)
+    * [ERC20通证保险箱](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
+    * [验证（RBAC, 角色访问控制）](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
+    * [以及其他](https://github.com/dapphub/dappsys)
+  * 为 [MakerDAO](https://github.com/makerdao/maker-otc) 或 [The TAO](https://github.com/ryepdx/the-tao) 提供基础模块
+  * 在创建未经测试的解决方案之前应先进行咨询
+  * 其使用在 [Dapp-a-day 1-10](https://steemit.com/@nikolai) 和 [Dapp-a-day 11-25](https://steemit.com/@nexusdev) 中皆有描述
+* [OpenZeppelin Contracts: ](https://github.com/OpenZeppelin/openzeppelin-contracts)使用Solidity语言的可重用和安全的智能合约开放框架
+  * 最广泛使用的库和智能合约
+  * 与Dappsys相似，与Truffle框架有更多集成
+  * [有关安全审计最佳实践的博客](https://blog.openzeppelin.com/)
+* [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037)
+* [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - 常见审计结果清单，以及在主网启动时审计合约时需要注意的问题
+* [aragonOS: ](https://hack.aragon.org/docs/aragonos-intro.html)用于构建DAO、Dapp和协议的智能合约框架
+  * 可升级性：智能合约可以升级到新版本
+  * 权限控制：通过使用`auth`和`authP`修饰符，只有其他应用程序或实体才能访问，保护功能性
+  * 转发器：aragonOS应用程序可以将其执行操作的意向发送给其他应用程序，以便在满足要求的情况下转发意向
+
+**可升级性**
 
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
   * [https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948](https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948)
@@ -203,18 +204,18 @@ description: 本页为读者提供以太坊应用程序开发的工具、组件�
 
 #### Ethereum Clients
 
-* [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
-* [Geth](https://geth.ethereum.org/docs/) - Go client
-* [Parity](https://www.parity.io/ethereum/) - Rust client
-* [Aleth](https://github.com/ethereum/aleth) - C++ client
-* [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
-* [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
-* [Trinity](https://trinity.ethereum.org/) - Python client using [py-evm](https://github.com/ethereum/py-evm)
-* [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
-* [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-* [Mustekala](https://github.com/musteka-la/mustekala) - Ethereum Light Client project of Metamask
-* [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
-* [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
+* [Besu](https://besu.hyperledger.org/en/latest/) - 基于Apache 2.0许可开发并用Java编写的开源以太坊客户端。该项目由Hyperledger托管。
+* [Geth](https://geth.ethereum.org/docs/) - Go客户端
+* [Parity](https://www.parity.io/ethereum/) - Rust客户端
+* [Aleth](https://github.com/ethereum/aleth) - C++客户端
+* [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core客户端
+* [Infura](https://infura.io/) - 提供以太坊客户端标准兼容API的托管服务
+* [Trinity](https://trinity.ethereum.org/) - 使用 [py-evm](https://github.com/ethereum/py-evm) 的Python客户端
+* [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - 使用 [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) 的JS客户端
+* [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - 以太坊客户端工具，如同“命令行的MetaMask”一样
+* [Mustekala](https://github.com/musteka-la/mustekala) - Metamask的以太坊轻客户端项目
+* [Exthereum](https://github.com/exthereum/blockchain) - Elixir客户端
+* [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - 用于Tobalaba测试网络的Energy Web Foundation客户端
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
