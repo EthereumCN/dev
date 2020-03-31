@@ -66,7 +66,7 @@
   * [MythX](kai-fa-zhe-gong-ju/security-tools/mythx.md)
   * [Oyente](kai-fa-zhe-gong-ju/security-tools/oyente.md)
   * [Manticore](kai-fa-zhe-gong-ju/security-tools/manticore.md)
-  * [Slither](https://github.com/crytic/slither)
+  * [Slither](kai-fa-zhe-gong-ju/security-tools/slither.md)
   * [Mythril](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools)
 * [数据查询](kai-fa-zhe-gong-ju/data-querying/README.md)
   * [Alethio](kai-fa-zhe-gong-ju/data-querying/alethio.md)
