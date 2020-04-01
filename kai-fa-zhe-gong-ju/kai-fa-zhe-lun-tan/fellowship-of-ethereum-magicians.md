@@ -1,10 +1,10 @@
 # Fellowship of Ethereum Magicians
 
-### About Fellowship of Ethereum Magicians
+[![&#x56FE;&#x7247;alt](../../.gitbook/assets/2092eaa2a0afb6bcd7834deaada6f65a23b2bea0.png)](https://ethereum-magicians.org/)
 
-A self-organized Fellowship within the Ethereum community to maximize technical opportunities, share ideas, and work together effectively across national, organizational and other boundaries.
+{% embed url="https://knol.ethereum.cn/ethereum-ecosystem/community/forum/fellowship-of-ethereum-magician" %}
 
-{% embed url="https://ethereum-magicians.org/" %}
+
 
 
 

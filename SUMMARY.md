@@ -102,7 +102,7 @@
   * [The BUIDL Network](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/the-buidl-network.md)
   * [Fellowship of Ethereum Magicians](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/fellowship-of-ethereum-magicians.md)
 * [开发规范](kai-fa-zhe-gong-ju/kai-fa-gui-fan/README.md)
-  * [EIPs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/eips.md)
+  * [EIPs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/eips-1.md)
   * [ERCs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs.md)
 * [运行节点](kai-fa-zhe-gong-ju/yun-hang-jie-dian/README.md)
   * [Raspberry Pi 4](kai-fa-zhe-gong-ju/yun-hang-jie-dian/untitled.md)
