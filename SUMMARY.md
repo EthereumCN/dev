@@ -79,7 +79,7 @@
   * [Sol-profiler](kai-fa-zhe-gong-ju/ce-shi-gong-ju/sol-profiler.md)
   * [Eth tester](kai-fa-zhe-gong-ju/ce-shi-gong-ju/eth-tester.md)
   * [Solhint](kai-fa-zhe-gong-ju/ce-shi-gong-ju/solhint.md)
-  * [Rocketh](https://github.com/wighawag/rocketh)
+  * [Rocketh](kai-fa-zhe-gong-ju/ce-shi-gong-ju/rocketh.md)
 * [以太坊测试网](kai-fa-zhe-gong-ju/yi-tai-fang-ce-shi-wang/README.md)
   * [以太坊2.0测试网](https://ethfans.org/posts/eli5-explanation-of-the-ethereum-2-0-testnet)
   * [公共测试网](kai-fa-zhe-gong-ju/yi-tai-fang-ce-shi-wang/public-testnets/README.md)

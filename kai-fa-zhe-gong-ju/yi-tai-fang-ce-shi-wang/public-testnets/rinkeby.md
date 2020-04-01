@@ -2,7 +2,13 @@
 
 [![Rinkeby](https://ethereum.consensys.net/hs-fs/hubfs/Rinkeby.png?width=200&name=Rinkeby.png)](http://bit.ly/rinkeby-portal)
 
-**Rinkeby** 
+**Rinkeby** 是由Geth团队构建的PoA以太坊测试网。
 
-A proof-of-authority blockchain started by the Geth team. Test ether must be requested.
+
+
+水龙头网站
+
+* [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/)
+
+
 
