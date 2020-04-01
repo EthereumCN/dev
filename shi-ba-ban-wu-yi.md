@@ -287,80 +287,72 @@ Application Binary Interface 应用程序二进制接口
 
 ### 其他工具
 
-* [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
-* [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
-  * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html) - Solidity compiler
-* [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
-* [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
-* [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
-* [Sol-merger](https://github.com/RyuuGan/sol-merger) - Alternative, merges all imports into single file for solidity contracts
-* [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
-* [eth-cli](https://github.com/protofire/eth-cli) - A collection of CLI tools to help with ethereum learning and development
-* [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
-* [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
-* [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
-* [py-eth](http://py-eth.com/) - Collection of Python tools for the Ethereum ecosystem
-* [truffle-flattener](https://github.com/nomiclabs/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
-* [Decode](https://github.com/hacker-DOM/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
-* [TypeChain](https://github.com/ethereum-ts/TypeChain) - Typescript bindings for Ethereum smartcontracts
-* [EthSum](https://ethsum.netlify.com/) - A Simple Ethereum Address Checksum Tool
-* [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - allows indexing blocks or listening to Events in PHP
-* [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
-* [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
-* [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects
-* [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
-* [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
-* [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) - Ethereum and Unity integration demo
-* [Flappy](https://github.com/Nethereum/Nethereum.Flappy) - Ethereum and Unity integration demo/sample
-* [Wonka](https://github.com/Nethereum/Wonka) - Nethereum business rules engine demo/sample
-* [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - A set of tools to standarize Solidity import and artifact resolution in frameworks.
-* [eth-reveal](https://github.com/justinjmoses/eth-reveal) - A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online.
-* [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
+* [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - 由aragonOS和以太坊提供支持的去中心化软件包管理器。aragonPM支持对软件包升级进行去中心化治理，从而消除中心故障点
+* [Truffle boxes](https://www.trufflesuite.com/boxes) - 用于快速构建DApp的打包组件
+  * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - CryptoKitties API和智能合约的本地沙盒实现，可以作为Truffle Box使用
+* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html) - Solidity编译器
+* [Sol-compiler](https://sol-compiler.com/) - 项目级Solidity编译器
+* [Solidity cli](https://github.com/pubkey/solidity-cli) - 简捷可靠的Solidity编译器
+* [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - 将Solidity项目合并到平面文件实用程序，有助于可视化导入的合约或在Etherscan上验证合约
+* [Sol-merger](https://github.com/RyuuGan/sol-merger) - 备选，将所有导入合并到单个Solidity合约文件
+* [RLP](https://github.com/ethereumjs/rlp) - JavaScript递归长度前缀编码
+* [eth-cli](https://github.com/protofire/eth-cli) - CLI工具集合，可辅助以太坊学习和开发
+* [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal是用于管理以太坊中常见任务的命令行工具
+* [Eth crypto](https://github.com/pubkey/eth-crypto) - 以太坊的加密javascript函数以及将其与web3js和solidity结合使用的教程
+* [Parity Signer](https://github.com/paritytech/parity-signer) - 允许签名交易的移动应用程序
+* [py-eth](http://py-eth.com/) - 以太坊生态系统的Python工具集合
+* [truffle-flattener](https://github.com/nomiclabs/truffle-flattener) - Concats使用Truffle开发的实体文件及其所有依赖项
+* [Decode](https://github.com/hacker-DOM/decode) - npm软件包，对提交到本地testrpc节点的事务进行解析，使其更可读易懂
+* [TypeChain](https://github.com/ethereum-ts/TypeChain) - 以太坊智能合约的Typescript绑定
+* [EthSum](https://ethsum.netlify.com/) - 简单的以太坊地址校验和工具
+* [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - 允许索引区块或收听PHP中的事件
+* [Purser](https://github.com/JoinColony/purser) - 基于以太坊的钱包的JavaScript通用钱包工具。支持软件、硬件和Metamask钱包
+* [Node-Metamask](https://github.com/JoinColony/node-metamask) - 通过node.js连接Metamask
+* [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Solidity项目的文档生成器
+* [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - 将以太坊区块链数据导出为CSV或JSON文件
+* [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - 用于格式化Solidity代码
+* [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) - 以太坊和Unity集成演示
+* [Flappy](https://github.com/Nethereum/Nethereum.Flappy) -  以太坊和Unity集成演示/样本
+* [Wonka](https://github.com/Nethereum/Wonka) - Nethereum业务规则引擎演示/样本
+* [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - 用于在框架中标准化Solidity导入和工件解析的工具
+* [eth-reveal](https://github.com/justinjmoses/eth-reveal) - 节点和浏览器工具，用于检查事务，使用在线找到的ABI尽可能解码方法、事件日志和还原原因
+* [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - 用Golang编写的库，能够可靠地发送交易，抽象出棘手的底层细节，例如gas优化、随机数计算、同步等
 
-### Smart Contract Standards & Libraries
+### 智能合约标准&库
 
-#### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
+#### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository 以太坊意见征求稿
 
-* Tokens
-  * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Original token contract for fungible assets
-  * [ERC-721](https://eips.ethereum.org/EIPS/eip-721) - Token standard for non-fungible assets
-  * [ERC-777](https://eips.ethereum.org/EIPS/eip-777) - An improved token standard for fungible assets
-  * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard
-* [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - Creates a standard method to publish and detect what interfaces a smart contract implements.
-* [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - Proxy contract for key management and execution, to establish a Blockchain identity.
-* [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts
+* 通证
+  * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 可置换资产的原始通证合约
+  * [ERC-721](https://eips.ethereum.org/EIPS/eip-721) - 不可置换资产的通证标准
+  * [ERC-777](https://eips.ethereum.org/EIPS/eip-777) - 可置换资产的优化版通证标准
+  * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - 可挖矿通证标准
+* [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 创建一种标准方法，发布和检测智能合约实现的接口
+* [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 用于密钥管理和执行的代理合约，以建立区块链身份
+* [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 合约所有权的标准接口
 
-#### Popular Smart Contract Libraries
+#### 主流智能合约库
 
-* [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
-* [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
-* [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - A group of packages built for use on blockchains utilising the Ethereum Virtual Machine
-* [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
-* [Aragon](https://github.com/aragon/aragon) - DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
-* [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
-* [0x](https://github.com/0xProject) - DEX protocol
-* [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
-* [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
+* [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - 包含经测试的可重用智能合约，例如SafeMath和OpenZeppelin SDK库，以实现智能合约的可升级性
+* [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - Solidity库集合，用于在以太坊上构建安全且节省gas的智能合约
+* [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - 使用以太坊虚拟机构建用于区块链的软件包
+* [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 节省gas的Solidity日期和时间库
+* [Aragon](https://github.com/aragon/aragon) - DAO协议。包含[aragonOS智能合约框架](https://github.com/aragon/aragonOS)，重点关注可升级性和治理
+* [ARC](https://github.com/daostack/arc) - DAO的操作系统和DAO堆栈基础层
+* [0x](https://github.com/0xProject) - DEX（去中心化交易所）协议
+* [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - 根据给定的规范和高级属性，包含通证合约wrt.的正确性证明
+* [Provable API](https://github.com/provable-things/ethereum-api) - 提供使用Provable服务的合约，允许进行链下操作、数据获取和计算
 
-### Developer Guides for 2nd Layer Infrastructure
+### 开发者指南及第二层基础设施
 
-#### Scalability
+#### 扩容性
 
-#### Payment/State Channels
+#### 支付/状态通道
 
-* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
-* [µRaiden Documentation](https://microraiden.readthedocs.io/) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - 以太坊支付通道的50行代码
+* [µRaiden Documentation](https://microraiden.readthedocs.io/) - µRaiden发送器/接收器用例的指南和示例
 
-#### Plasma
-
-* [Learn Plasma](https://github.com/ethsociety/learn-plasma) - Website as Node application that was started at the 2018 IC3-Ethereum Crypto Boot Camp at Cornell University, covering all Plasma variants \(MVP/Cash/Debit\)
-* [Plasma MVP](https://github.com/omisego/plasma-contracts) - OmiseGO's research implementation of Minimal Viable Plasma
-* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
-* [Plasma Guard](https://github.com/mesg-foundation/plasma-guard) - Automatically watch and challenge or exit from Omisego Plasma Network when needed.
-* [Plasma OmiseGo Watcher](https://github.com/mesg-foundation/service-plasma-omisego-watcher) - Interact with Plasma OmiseGo network and notifies for any byzantine events.
-
-#### Side-Chains
+#### 侧链
 
 * [POA Network](https://www.poa.network/)
   * [POA Bridge](https://bridge.poa.net/)
@@ -369,26 +361,27 @@ Application Binary Interface 应用程序二进制接口
 * [Loom Network](https://github.com/loomnetwork)
 * [Matic Network](https://docs.matic.network/)
 
-#### Privacy / Confidentiality
+#### 隐私
 
 **zkSNARKs**
 
-* [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-* [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
-* [Nightfall](https://github.com/EYBlockchain/nightfall) - Make any ERC-20 / ERC-721 token private - open source tools & microservices
-* Proxy Re-encryption \(PRE\) \*\* [NuCypher Network](https://github.com/nucypher/nucypher) - A proxy re-encryption network to empower data privacy in decentralized systems \*\* [pyUmbral](https://github.com/nucypher/pyumbral) - Threshold proxy re-encryption cryptographic library
-* Fully Homomorphic Encryption \(FHE\) \*\* [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
+* [ZoKrates](https://github.com/Zokrates/ZoKrates) - 以太坊zkSNARKS工具箱
+* [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - 以太坊网络上的私密交易，实现已上线以太坊主网
+* [Nightfall](https://github.com/EYBlockchain/nightfall) - 将所有ERC-20 / ERC-721通证设为私有-开源工具和微服务
+* [NuCypher Network](https://github.com/nucypher/nucypher) - 再加密代理网络，可在去中心化系统中增强数据隐私
+* [pyUmbral](https://github.com/nucypher/pyumbral) - 门限代理再加密密码库
+* [NuFHE](https://github.com/nucypher/nufhe) - GPU加速的FHE库
 
-#### Prebuilt UI Components
+#### 预建UI组件
 
-* [aragonUI](https://ui.aragon.org/) - A React library including Dapp components
-* [components.bounties.network](https://components.bounties.network/) - A React library including Dapp components
-* [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
-* [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
-* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
-* [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
-* [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
-* [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
-* [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-* [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
+* [aragonUI](https://ui.aragon.org/) - 包含DApp组件的React库
+* [components.bounties.network](https://components.bounties.network/) - 包含DApp组件的React库
+* [ui.decentraland.org](https://github.com/decentraland/ui) - 包含DApp组件的React库
+* [dapparatus](https://github.com/austintgriffith/dapparatus) - 可重用的React Dapp组件
+* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React组件
+* [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - 基于Web的去中心化应用程序的跨平台混合托管机制
+* [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - 跨平台桌面钱包示例
+* [eth-button](https://eth-button.github.io/eth-button/) - 极简捐赠按钮
+* [Rimble Design System](https://rimble.consensys.design/) - 适用于去中心化应用程序的适应性组件和设计标准
+* [3Box Plugins](https://docs.3box.io/build/plugins) - 加入用于社交功能的react组件。包括评论、个人资料和消息
 
