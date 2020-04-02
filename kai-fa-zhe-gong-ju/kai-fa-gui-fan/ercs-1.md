@@ -74,12 +74,12 @@
 | [1592](https://eips.ethereum.org/EIPS/eip-1592) | Address and ERC20-compliant transfer rules  | [Cyril Lapinte](mailto:cyril.lapinte@mtpelerin.com), [Laurent Aapro](mailto:laurent.aapro@mtpelerin.com) |
 | [1613](https://eips.ethereum.org/EIPS/eip-1613) | Gas stations network | [Yoav Weiss](mailto:yoav@tabookey.com), [Dror Tirosh](mailto:dror@tabookey.com), [Alex Forshtat](mailto:alex@tabookey.com) |
 | [1616](https://eips.ethereum.org/EIPS/eip-1616) | ERC-1616 Attribute Registry Standard    ERC-1616属性注册表标准 | [0age](https://github.com/0age), [Santiago Palladino](https://github.com/spalladino), [Leo Arias](https://github.com/elopio), [Alejo Salles](https://github.com/fiiiu), [Stephane Gosselin](https://github.com/thegostep) |
-| [1620](https://eips.ethereum.org/EIPS/eip-1620) | ERC-1620 Money Streaming | [Paul Berg \(@PaulRBerg\)](mailto:hello@paulrberg.com) |
-| [1710](https://eips.ethereum.org/EIPS/eip-1710) | URL Format for Web3 Browsers | [Bruno Barbieri](https://github.com/brunobar79) |
-| [1753](https://eips.ethereum.org/EIPS/eip-1753) | Smart Contract Interface for Licences | [Lucas Cullen](https://github.com/BitcoinBrisbane), [Kai Yeung](https://github.com/CivicKai), [Anna Crowley](mailto:annaelizabethcrowley@gmail.com), [Caroline Marshall](mailto:caroline.marshall888@gmail.com), [Katrina Donaghy](mailto:katrina@civicledger.com) |
-| [1761](https://eips.ethereum.org/EIPS/eip-1761) | ERC-1761 Scoped Approval Interface | [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [James Therien](mailto:james@enjin.io), [Eric Binet](mailto:eric@enjin.io) |
-| [1775](https://eips.ethereum.org/EIPS/eip-1775) | App Keys, application specific wallet accounts | [Vincent Eli](https://github.com/Bunjin), [Dan Finlay](https://github.com/DanFinlay) |
-| [1812](https://eips.ethereum.org/EIPS/eip-1812) | Ethereum Verifiable Claims | [Pelle Braendgaard](https://github.com/pelle) |
+| [1620](https://eips.ethereum.org/EIPS/eip-1620) | ERC-1620 Money Streaming  ERC-1620收入流 | [Paul Berg \(@PaulRBerg\)](mailto:hello@paulrberg.com) |
+| [1710](https://eips.ethereum.org/EIPS/eip-1710) | URL Format for Web3 Browsers Web3浏览器的URL格式 | [Bruno Barbieri](https://github.com/brunobar79) |
+| [1753](https://eips.ethereum.org/EIPS/eip-1753) | Smart Contract Interface for Licences 智能合约许可证接口 | [Lucas Cullen](https://github.com/BitcoinBrisbane), [Kai Yeung](https://github.com/CivicKai), [Anna Crowley](mailto:annaelizabethcrowley@gmail.com), [Caroline Marshall](mailto:caroline.marshall888@gmail.com), [Katrina Donaghy](mailto:katrina@civicledger.com) |
+| [1761](https://eips.ethereum.org/EIPS/eip-1761) | ERC-1761 Scoped Approval Interface ERC-1761许可范围接口 | [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [James Therien](mailto:james@enjin.io), [Eric Binet](mailto:eric@enjin.io) |
+| [1775](https://eips.ethereum.org/EIPS/eip-1775) | App Keys, application specific wallet accounts        app密钥，特定应用对应特定钱包账户 | [Vincent Eli](https://github.com/Bunjin), [Dan Finlay](https://github.com/DanFinlay) |
+| [1812](https://eips.ethereum.org/EIPS/eip-1812) | Ethereum Verifiable Claims  以太坊可验证证明 | [Pelle Braendgaard](https://github.com/pelle) |
 | [1822](https://eips.ethereum.org/EIPS/eip-1822) | Universal Upgradeable Proxy Standard \(UUPS\) | [Gabriel Barros](mailto:gabriel@terminal.co), [Patrick Gallagher](mailto:blockchainbuddha@gmail.com) |
 | [1844](https://eips.ethereum.org/EIPS/eip-1844) | ENS Interface Discovery | [Nick Johnson](https://github.com/arachnid) |
 | [1900](https://eips.ethereum.org/EIPS/eip-1900) | dType - Decentralized Type System for EVM | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
