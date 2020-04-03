@@ -2,44 +2,44 @@
 
 ## All
 
-### Last Call <a id="last-call"></a>
+### 最后召集（Last Call） <a id="last-call"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
-| [695](https://eips.ethereum.org/EIPS/eip-695) | Create \`eth\_chainId\` method for JSON-RPC | [Isaac Ardis](mailto:isaac.ardis@gmail.com), [Wei Tang](https://github.com/sorpaas), [Fan Torchz](https://github.com/tcz001) |
-| [875](https://eips.ethereum.org/EIPS/eip-875) | Simpler NFT standard with batching and native atomic swaps | [Weiwu Zhang](mailto:a@colourful.land), [James Sangalli](mailto:j.l.sangalli@gmail.com) |
-| [1191](https://eips.ethereum.org/EIPS/eip-1191) | Add chain id to mixed-case checksum address encoding | [Juliano Rizzo](https://github.com/juli) |
-| [2159](https://eips.ethereum.org/EIPS/eip-2159) | Common Prometheus Metrics Names for Clients | [Adrian Sutton](https://github.com/ajsutton) |
+| [695](https://eips.ethereum.org/EIPS/eip-695) | Create \`eth\_chainId\` method for JSON-RPC    为JSON-RPC构建\`eth\_chainId\` | [Isaac Ardis](mailto:isaac.ardis@gmail.com), [Wei Tang](https://github.com/sorpaas), [Fan Torchz](https://github.com/tcz001) |
+| [875](https://eips.ethereum.org/EIPS/eip-875) | Simpler NFT standard with batching and native atomic swaps 针对批量本地原子交换的较简明NFT代币标准  | [Weiwu Zhang](mailto:a@colourful.land), [James Sangalli](mailto:j.l.sangalli@gmail.com) |
+| [1191](https://eips.ethereum.org/EIPS/eip-1191) | Add chain id to mixed-case checksum address encoding 向大小写混合校验和地址编码增加链id | [Juliano Rizzo](https://github.com/juli) |
+| [2159](https://eips.ethereum.org/EIPS/eip-2159) | Common Prometheus Metrics Names for Clients 客户端常见Prometheus指标名称 | [Adrian Sutton](https://github.com/ajsutton) |
 
-### Draft <a id="draft"></a>
+### 草案阶段（Draft） <a id="draft"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
-| [86](https://eips.ethereum.org/EIPS/eip-86) | Abstraction of transaction origin and signature | [Vitalik Buterin](https://github.com/vbuterin) |
-| [101](https://eips.ethereum.org/EIPS/eip-101) | Serenity Currency and Crypto Abstraction | [Vitalik Buterin](mailto:v@buterin.com) |
-| [107](https://eips.ethereum.org/EIPS/eip-107) | safe "eth\_sendTransaction" authorization via html popup | [Ronan Sandford](https://github.com/wighawag) |
-| [173](https://eips.ethereum.org/EIPS/eip-173) | ERC-173 Contract Ownership Standard | [Nick Mudge](mailto:nick@perfectabstractions.com), [Dan Finlay](mailto:dan@danfinlay.com) |
-| [191](https://eips.ethereum.org/EIPS/eip-191) | Signed Data Standard | [Martin Holst Swende](https://github.com/holiman), [Nick Johnson](mailto:arachnid@notdot.net) |
-| [205](https://eips.ethereum.org/EIPS/eip-205) | ENS support for contract ABIs | [Nick Johnson](mailto:nick@ethereum.org) |
-| [210](https://eips.ethereum.org/EIPS/eip-210) | Blockhash refactoring | [Vitalik Buterin](https://github.com/vbuterin) |
-| [233](https://eips.ethereum.org/EIPS/eip-233) | Formal process of hard forks | [Alex Beregszaszi](https://github.com/axic) |
-| [234](https://eips.ethereum.org/EIPS/eip-234) | Add \`blockHash\` to JSON-RPC filter options. | [Micah Zoltu](https://github.com/MicahZoltu) |
-| [600](https://eips.ethereum.org/EIPS/eip-600) | Ethereum purpose allocation for Deterministic Wallets | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
-| [601](https://eips.ethereum.org/EIPS/eip-601) | Ethereum hierarchy for deterministic wallets | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
-| [615](https://eips.ethereum.org/EIPS/eip-615) | Subroutines and Static Jumps for the EVM | [Greg Colvin](mailto:greg@colvin.org), [Brooklyn Zelenka](https://github.com/expede), [Paweł Bylica](https://github.com/chfast), [Christian Reitwiessner](https://github.com/chriseth) |
-| [616](https://eips.ethereum.org/EIPS/eip-616) | SIMD Operations for the EVM | [Greg Colvin](mailto:greg@colvin.org) |
-| [634](https://eips.ethereum.org/EIPS/eip-634) | Storage of text records in ENS | [Richard Moore](https://github.com/ricmoo) |
-| [663](https://eips.ethereum.org/EIPS/eip-663) | Unlimited SWAP and DUP instructions | [Alex Beregszaszi](https://github.com/axic) |
-| [665](https://eips.ethereum.org/EIPS/eip-665) | Add precompiled contract for Ed25519 signature verification | [Tobias Oberstein](mailto:tobias.oberstein@crossbario.com) |
-| [681](https://eips.ethereum.org/EIPS/eip-681) | URL Format for Transaction Requests | [Daniel A. Nagy](mailto:daniel@ethereum.org) |
-| [689](https://eips.ethereum.org/EIPS/eip-689) | Address Collision of Contract Address Causes Exceptional Halt | [Yoichi Hirai](mailto:i@yoichihirai.com) |
-| [698](https://eips.ethereum.org/EIPS/eip-698) | OPCODE 0x46 BLOCKREWARD | [Cody Burns](mailto:dontPanic@codywburns.com) |
+| [86](https://eips.ethereum.org/EIPS/eip-86) | Abstraction of transaction origin and signature 交易来源与签名抽象化 | [Vitalik Buterin](https://github.com/vbuterin) |
+| [101](https://eips.ethereum.org/EIPS/eip-101) | Serenity Currency and Crypto Abstraction  Serenity通货模式以及密码学抽象 | [Vitalik Buterin](mailto:v@buterin.com) |
+| [107](https://eips.ethereum.org/EIPS/eip-107) | safe "eth\_sendTransaction" authorization via html popup   通过html popup安全授权 "eth\_sendTransaction" | [Ronan Sandford](https://github.com/wighawag) |
+| [173](https://eips.ethereum.org/EIPS/eip-173) | ERC-173 Contract Ownership Standard ERC-173合约所有权标准 | [Nick Mudge](mailto:nick@perfectabstractions.com), [Dan Finlay](mailto:dan@danfinlay.com) |
+| [191](https://eips.ethereum.org/EIPS/eip-191) | Signed Data Standard 已签名数据标准 | [Martin Holst Swende](https://github.com/holiman), [Nick Johnson](mailto:arachnid@notdot.net) |
+| [205](https://eips.ethereum.org/EIPS/eip-205) | ENS support for contract ABIs   ENS支持合约ABIs | [Nick Johnson](mailto:nick@ethereum.org) |
+| [210](https://eips.ethereum.org/EIPS/eip-210) | Blockhash refactoring  | [Vitalik Buterin](https://github.com/vbuterin) |
+| [233](https://eips.ethereum.org/EIPS/eip-233) | Formal process of hard forks  实行硬分叉的正式过程 | [Alex Beregszaszi](https://github.com/axic) |
+| [234](https://eips.ethereum.org/EIPS/eip-234) | Add \`blockHash\` to JSON-RPC filter options. 增加\`blockHash\`至JSON-RPC过滤器选项 | [Micah Zoltu](https://github.com/MicahZoltu) |
+| [600](https://eips.ethereum.org/EIPS/eip-600) | **Ethereum purpose allocation for Deterministic Wallets**  | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
+| [601](https://eips.ethereum.org/EIPS/eip-601) | Ethereum hierarchy for deterministic wallets 以太坊确定性钱包的分层 | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
+| [615](https://eips.ethereum.org/EIPS/eip-615) | Subroutines and Static Jumps for the EVM   EVM的子程序和静态跳转 | [Greg Colvin](mailto:greg@colvin.org), [Brooklyn Zelenka](https://github.com/expede), [Paweł Bylica](https://github.com/chfast), [Christian Reitwiessner](https://github.com/chriseth) |
+| [616](https://eips.ethereum.org/EIPS/eip-616) | SIMD Operations for the EVM    对EVM的SIMD操作 | [Greg Colvin](mailto:greg@colvin.org) |
+| [634](https://eips.ethereum.org/EIPS/eip-634) | Storage of text records in ENS 在ENS中存储文本数据 | [Richard Moore](https://github.com/ricmoo) |
+| [663](https://eips.ethereum.org/EIPS/eip-663) | Unlimited SWAP and DUP instructions 无限SWAP、DUP指令 | [Alex Beregszaszi](https://github.com/axic) |
+| [665](https://eips.ethereum.org/EIPS/eip-665) | Add precompiled contract for Ed25519 signature verification 为Ed25519签名验证添加预编译合约 | [Tobias Oberstein](mailto:tobias.oberstein@crossbario.com) |
+| [681](https://eips.ethereum.org/EIPS/eip-681) | URL Format for Transaction Requests 交易请求的URL格式 | [Daniel A. Nagy](mailto:daniel@ethereum.org) |
+| [689](https://eips.ethereum.org/EIPS/eip-689) | Address Collision of Contract Address Causes Exceptional Halt  | [Yoichi Hirai](mailto:i@yoichihirai.com) |
+| [698](https://eips.ethereum.org/EIPS/eip-698) | OPCODE 0x46 BLOCKREWARD  操作码 0x46 BLOCKREWARD | [Cody Burns](mailto:dontPanic@codywburns.com) |
 | [712](https://eips.ethereum.org/EIPS/eip-712) | Ethereum typed structured data hashing and signing | [Remco Bloemen](mailto:remco@wicked.ventures), [Leonid Logvinov](mailto:logvinov.leon@gmail.com), [Jacob Evans](mailto:jacob@dekz.net) |
 | [725](https://eips.ethereum.org/EIPS/eip-725) | Proxy Account | [Fabian Vogelsteller](https://github.com/frozeman), [Tyler Yasaka](https://github.com/tyleryasaka) |
 | [747](https://eips.ethereum.org/EIPS/eip-747) | Add wallet\_watchAsset to Provider | [Dan Finlay](https://github.com/danfinlay), [Esteban Mino](https://github.com/estebanmino) |
-| [758](https://eips.ethereum.org/EIPS/eip-758) | Subscriptions and filters for completed transactions | [Jack Peterson](mailto:jack@tinybike.net) |
+| [758](https://eips.ethereum.org/EIPS/eip-758) | Subscriptions and filters for completed transactions   交易返回数据的订阅和过滤器 | [Jack Peterson](mailto:jack@tinybike.net) |
 | [778](https://eips.ethereum.org/EIPS/eip-778) | Ethereum Node Records \(ENR\) | [Felix Lange](mailto:fjl@ethereum.org) |
-| [801](https://eips.ethereum.org/EIPS/eip-801) | ERC-801 Canary Standard | [ligi](mailto:ligi@ligi.de) |
+| [801](https://eips.ethereum.org/EIPS/eip-801) | ERC-801 Canary Standard      ERC-801 Canary标准 | [ligi](mailto:ligi@ligi.de) |
 | [823](https://eips.ethereum.org/EIPS/eip-823) | Token Exchange Standard | [Kashish Khullar](mailto:kkhullar7@gmail.com) |
 | [831](https://eips.ethereum.org/EIPS/eip-831) | URI Format for Ethereum | [ligi](mailto:ligi@ligi.de) |
 | [858](https://eips.ethereum.org/EIPS/eip-858) | Reduce block reward and delay difficulty bomb | [Carl Larson](mailto:cslarson@gmail.com) |
@@ -199,53 +199,53 @@
 | [2542](https://eips.ethereum.org/EIPS/eip-2542) | New opcodes TXGASLIMIT and CALLGASLIMIT | [Alex Forshtat](mailto:forshtat1@gmail.com) |
 | [2544](https://eips.ethereum.org/EIPS/eip-2544) | ENS Wildcard Resolution | [Nick Johnson](https://github.com/arachnid), [0age](https://github.com/0age) |
 
-### Accepted <a id="accepted"></a>
+### 被接受（Accepted） <a id="accepted"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
 | [1057](https://eips.ethereum.org/EIPS/eip-1057) | ProgPoW, a Programmatic Proof-of-Work | [IfDefElse](mailto:ifdefelse@protonmail.com), [Greg Colvin](mailto:greg@colvin.org) |
 
-### Final <a id="final"></a>
+### 已通过（Final） <a id="final"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
-| [2](https://eips.ethereum.org/EIPS/eip-2) | Homestead Hard-fork Changes | [Vitalik Buterin](mailto:v@buterin.com) |
-| [6](https://eips.ethereum.org/EIPS/eip-6) | Renaming SUICIDE opcode | [Hudson Jameson](mailto:hudson@hudsonjameson.com) |
+| [2](https://eips.ethereum.org/EIPS/eip-2) | Homestead Hard-fork Changes Homestead 硬分叉更新事项 | [Vitalik Buterin](mailto:v@buterin.com) |
+| [6](https://eips.ethereum.org/EIPS/eip-6) | Renaming SUICIDE opcode     SUICIDE操作码的重命名 | [Hudson Jameson](mailto:hudson@hudsonjameson.com) |
 | [7](https://eips.ethereum.org/EIPS/eip-7) | DELEGATECALL | [Vitalik Buterin](mailto:v@buterin.com) |
-| [8](https://eips.ethereum.org/EIPS/eip-8) | devp2p Forward Compatibility Requirements for Homestead | [Felix Lange](mailto:felix@ethdev.com) |
-| [20](https://eips.ethereum.org/EIPS/eip-20) | ERC-20 Token Standard | [Fabian Vogelsteller](mailto:fabian@ethereum.org), [Vitalik Buterin](mailto:vitalik.buterin@ethereum.org) |
-| [55](https://eips.ethereum.org/EIPS/eip-55) | Mixed-case checksum address encoding | [Vitalik Buterin](mailto:vitalik.buterin@ethereum.org), [Alex Van de Sande](mailto:avsa@ethereum.org) |
-| [100](https://eips.ethereum.org/EIPS/eip-100) | Change difficulty adjustment to target mean block time including uncles | [Vitalik Buterin](https://github.com/vbuterin) |
-| [137](https://eips.ethereum.org/EIPS/eip-137) | Ethereum Domain Name Service - Specification | [Nick Johnson](mailto:arachnid@notdot.net) |
-| [140](https://eips.ethereum.org/EIPS/eip-140) | REVERT instruction | [Alex Beregszaszi](https://github.com/axic), [Nikolai Mushegian](mailto:nikolai@nexusdev.us) |
-| [141](https://eips.ethereum.org/EIPS/eip-141) | Designated invalid EVM instruction | [Alex Beregszaszi](https://github.com/axic) |
-| [145](https://eips.ethereum.org/EIPS/eip-145) | Bitwise shifting instructions in EVM | [Alex Beregszaszi](https://github.com/axic), [Paweł Bylica](https://github.com/chfast) |
-| [150](https://eips.ethereum.org/EIPS/eip-150) | Gas cost changes for IO-heavy operations | [Vitalik Buterin](https://github.com/vbuterin) |
-| [152](https://eips.ethereum.org/EIPS/eip-152) | Add BLAKE2 compression function \`F\` precompile | [Tjaden Hess](mailto:tah83@cornell.edu), [Matt Luongo](https://github.com/mhluongo), [Piotr Dyraga](https://github.com/pdyraga), [James Hancock](https://github.com/MadeOfTin) |
+| [8](https://eips.ethereum.org/EIPS/eip-8) | devp2p Forward Compatibility Requirements for Homestead    devp2p未来对Homestead的兼容性要求 | [Felix Lange](mailto:felix@ethdev.com) |
+| [20](https://eips.ethereum.org/EIPS/eip-20) | ERC-20 Token Standard ERC-20代币标准 | [Fabian Vogelsteller](mailto:fabian@ethereum.org), [Vitalik Buterin](mailto:vitalik.buterin@ethereum.org) |
+| [55](https://eips.ethereum.org/EIPS/eip-55) | Mixed-case checksum address encoding ERC-55大小写混合校验和地址编码 | [Vitalik Buterin](mailto:vitalik.buterin@ethereum.org), [Alex Van de Sande](mailto:avsa@ethereum.org) |
+| [100](https://eips.ethereum.org/EIPS/eip-100) | Change difficulty adjustment to target mean block time including uncles 改变计算区块难度的公式（难度调整算法）为以平均区块时间为目标，并将叔块纳入计算 | [Vitalik Buterin](https://github.com/vbuterin) |
+| [137](https://eips.ethereum.org/EIPS/eip-137) | Ethereum Domain Name Service - Specification 以太坊域名服务详述 | [Nick Johnson](mailto:arachnid@notdot.net) |
+| [140](https://eips.ethereum.org/EIPS/eip-140) | REVERT instruction       REVERT操作码指令 | [Alex Beregszaszi](https://github.com/axic), [Nikolai Mushegian](mailto:nikolai@nexusdev.us) |
+| [141](https://eips.ethereum.org/EIPS/eip-141) | Designated invalid EVM instruction 指定无效的EVM指令 | [Alex Beregszaszi](https://github.com/axic) |
+| [145](https://eips.ethereum.org/EIPS/eip-145) | Bitwise shifting instructions in EVM     EVM中的按位移位指令 | [Alex Beregszaszi](https://github.com/axic), [Paweł Bylica](https://github.com/chfast) |
+| [150](https://eips.ethereum.org/EIPS/eip-150) | Gas cost changes for IO-heavy operations   改变输入/输出密集型运算的gas消耗 | [Vitalik Buterin](https://github.com/vbuterin) |
+| [152](https://eips.ethereum.org/EIPS/eip-152) | Add BLAKE2 compression function \`F\` precompile  | [Tjaden Hess](mailto:tah83@cornell.edu), [Matt Luongo](https://github.com/mhluongo), [Piotr Dyraga](https://github.com/pdyraga), [James Hancock](https://github.com/MadeOfTin) |
 | [155](https://eips.ethereum.org/EIPS/eip-155) | Simple replay attack protection | [Vitalik Buterin](https://github.com/vbuterin) |
-| [160](https://eips.ethereum.org/EIPS/eip-160) | EXP cost increase | [Vitalik Buterin](https://github.com/vbuterin) |
-| [161](https://eips.ethereum.org/EIPS/eip-161) | State trie clearing \(invariant-preserving alternative\) | Gavin Wood |
-| [162](https://eips.ethereum.org/EIPS/eip-162) | Initial ENS Hash Registrar | Maurelian, [Nick Johnson](mailto:nick@ethereum.org), [Alex Van de Sande](mailto:avsa@ethereum.org) |
-| [165](https://eips.ethereum.org/EIPS/eip-165) | ERC-165 Standard Interface Detection | [Christian Reitwießner](mailto:chris@ethereum.org), [Nick Johnson](mailto:nick@ethereum.org), [Fabian Vogelsteller](mailto:fabian@frozeman.de), [Jordi Baylina](mailto:jordi@baylina.cat), [Konrad Feldmeier](mailto:konrad.feldmeier@brainbot.com), [William Entriken](mailto:github.com@phor.net) |
-| [170](https://eips.ethereum.org/EIPS/eip-170) | Contract code size limit | [Vitalik Buterin](https://github.com/vbuterin) |
-| [181](https://eips.ethereum.org/EIPS/eip-181) | ENS support for reverse resolution of Ethereum addresses | [Nick Johnson](mailto:arachnid@notdot.net) |
-| [190](https://eips.ethereum.org/EIPS/eip-190) | Ethereum Smart Contract Packaging Standard | [Piper Merriam](https://github.com/pipermerriam), [Tim Coulter](https://github.com/tcoulter), [Denis Erfurt](https://github.com/mhhf), [RJ Catalano](https://github.com/VoR0220), [Iuri Matias](https://github.com/iurimatias) |
-| [196](https://eips.ethereum.org/EIPS/eip-196) | Precompiled contracts for addition and scalar multiplication on the elliptic curve alt\_bn128 | [Christian Reitwiessner](mailto:chris@ethereum.org) |
-| [197](https://eips.ethereum.org/EIPS/eip-197) | Precompiled contracts for optimal ate pairing check on the elliptic curve alt\_bn128 | [Vitalik Buterin](mailto:vitalik@ethereum.org), [Christian Reitwiessner](mailto:chris@ethereum.org) |
-| [198](https://eips.ethereum.org/EIPS/eip-198) | Big integer modular exponentiation | [Vitalik Buterin](mailto:v@buterin.com) |
-| [211](https://eips.ethereum.org/EIPS/eip-211) | New opcodes: RETURNDATASIZE and RETURNDATACOPY | [Christian Reitwiessner](mailto:chris@ethereum.org) |
-| [214](https://eips.ethereum.org/EIPS/eip-214) | New opcode STATICCALL | [Vitalik Buterin](mailto:vitalik@ethereum.org), [Christian Reitwiessner](mailto:chris@ethereum.org;) |
-| [225](https://eips.ethereum.org/EIPS/eip-225) | Clique proof-of-authority consensus protocol | [Péter Szilágyi](mailto:peterke@gmail.com) |
-| [606](https://eips.ethereum.org/EIPS/eip-606) | Hardfork Meta: Homestead | [Alex Beregszaszi](https://github.com/axic) |
+| [160](https://eips.ethereum.org/EIPS/eip-160) | EXP cost increase 费用的指数增长 | [Vitalik Buterin](https://github.com/vbuterin) |
+| [161](https://eips.ethereum.org/EIPS/eip-161) | State trie clearing \(invariant-preserving alternative\) 状态数清理（长期保持的替代性方案） | Gavin Wood |
+| [162](https://eips.ethereum.org/EIPS/eip-162) | Initial ENS Hash Registrar 初始ENS哈希注册表 | Maurelian, [Nick Johnson](mailto:nick@ethereum.org), [Alex Van de Sande](mailto:avsa@ethereum.org) |
+| [165](https://eips.ethereum.org/EIPS/eip-165) | ERC-165 Standard Interface Detection   ERC-165标准交互界面查询 | [Christian Reitwießner](mailto:chris@ethereum.org), [Nick Johnson](mailto:nick@ethereum.org), [Fabian Vogelsteller](mailto:fabian@frozeman.de), [Jordi Baylina](mailto:jordi@baylina.cat), [Konrad Feldmeier](mailto:konrad.feldmeier@brainbot.com), [William Entriken](mailto:github.com@phor.net) |
+| [170](https://eips.ethereum.org/EIPS/eip-170) | Contract code size limit   合约代码空间限制 | [Vitalik Buterin](https://github.com/vbuterin) |
+| [181](https://eips.ethereum.org/EIPS/eip-181) | ENS support for reverse resolution of Ethereum addresses  ENS支持对以太坊地址的反向解析 | [Nick Johnson](mailto:arachnid@notdot.net) |
+| [190](https://eips.ethereum.org/EIPS/eip-190) | Ethereum Smart Contract Packaging Standard  以太坊智能合约打包标准 | [Piper Merriam](https://github.com/pipermerriam), [Tim Coulter](https://github.com/tcoulter), [Denis Erfurt](https://github.com/mhhf), [RJ Catalano](https://github.com/VoR0220), [Iuri Matias](https://github.com/iurimatias) |
+| [196](https://eips.ethereum.org/EIPS/eip-196) | Precompiled contracts for addition and scalar multiplication on the elliptic curve alt\_bn128     椭圆曲线alt\_bn128的加法、标量乘运算的预编译合约 | [Christian Reitwiessner](mailto:chris@ethereum.org) |
+| [197](https://eips.ethereum.org/EIPS/eip-197) | Precompiled contracts for optimal ate pairing check on the elliptic curve alt\_bn128  用于特定的配对友好型椭圆曲线alt\_bn128上一个配对方程的最优化ATE配对检查的预编译合约 | [Vitalik Buterin](mailto:vitalik@ethereum.org), [Christian Reitwiessner](mailto:chris@ethereum.org) |
+| [198](https://eips.ethereum.org/EIPS/eip-198) | Big integer modular exponentiation 预编译支持大数的模块化幂运算 | [Vitalik Buterin](mailto:v@buterin.com) |
+| [211](https://eips.ethereum.org/EIPS/eip-211) | New opcodes: RETURNDATASIZE and RETURNDATACOPY 新操作码：RETURNDATASIZE 和 RETURNDATACOPY | [Christian Reitwiessner](mailto:chris@ethereum.org) |
+| [214](https://eips.ethereum.org/EIPS/eip-214) | New opcode STATICCALL  新操作码：STATICCALL | [Vitalik Buterin](mailto:vitalik@ethereum.org), [Christian Reitwiessner](mailto:chris@ethereum.org;) |
+| [225](https://eips.ethereum.org/EIPS/eip-225) | Clique proof-of-authority consensus protocol  权威证明共识协议Clique | [Péter Szilágyi](mailto:peterke@gmail.com) |
+| [606](https://eips.ethereum.org/EIPS/eip-606) | Hardfork Meta: Homestead   | [Alex Beregszaszi](https://github.com/axic) |
 | [607](https://eips.ethereum.org/EIPS/eip-607) | Hardfork Meta: Spurious Dragon | [Alex Beregszaszi](https://github.com/axic) |
 | [608](https://eips.ethereum.org/EIPS/eip-608) | Hardfork Meta: Tangerine Whistle | [Alex Beregszaszi](https://github.com/axic) |
 | [609](https://eips.ethereum.org/EIPS/eip-609) | Hardfork Meta: Byzantium | [Alex Beregszaszi](https://github.com/axic) |
 | [627](https://eips.ethereum.org/EIPS/eip-627) | Whisper Specification | [Vlad Gluhovsky](mailto:gluk256@gmail.com) |
-| [649](https://eips.ethereum.org/EIPS/eip-649) | Metropolis Difficulty Bomb Delay and Block Reward Reduction | [Afri Schoedon](https://github.com/5chdn), [Vitalik Buterin](https://github.com/vbuterin) |
-| [658](https://eips.ethereum.org/EIPS/eip-658) | Embedding transaction status code in receipts | [Nick Johnson](mailto:nick@ethereum.org) |
-| [706](https://eips.ethereum.org/EIPS/eip-706) | DEVp2p snappy compression | [Péter Szilágyi](mailto:peter@ethereum.org) |
-| [721](https://eips.ethereum.org/EIPS/eip-721) | ERC-721 Non-Fungible Token Standard | [William Entriken](mailto:github.com@phor.net), [Dieter Shirley](mailto:dete@axiomzen.co), [Jacob Evans](mailto:jacob@dekz.net), [Nastassia Sachs](mailto:nastassia.sachs@protonmail.com) |
-| [777](https://eips.ethereum.org/EIPS/eip-777) | ERC777 Token Standard | [Jacques Dafflon](mailto:mail@0xjac.com), [Jordi Baylina](mailto:jordi@baylina.cat), [Thomas Shababi](mailto:tom@truelevel.io) |
+| [649](https://eips.ethereum.org/EIPS/eip-649) | Metropolis Difficulty Bomb Delay and Block Reward Reduction  Metropolis难度炸弹推迟以及区块奖励减少 | [Afri Schoedon](https://github.com/5chdn), [Vitalik Buterin](https://github.com/vbuterin) |
+| [658](https://eips.ethereum.org/EIPS/eip-658) | Embedding transaction status code in receipts  在收据中嵌入交易状态码 | [Nick Johnson](mailto:nick@ethereum.org) |
+| [706](https://eips.ethereum.org/EIPS/eip-706) | DEVp2p snappy compression  DEVp2p snappy压缩 | [Péter Szilágyi](mailto:peter@ethereum.org) |
+| [721](https://eips.ethereum.org/EIPS/eip-721) | ERC-721 Non-Fungible Token Standard    ERC-721非同质代币（NFT）标准 | [William Entriken](mailto:github.com@phor.net), [Dieter Shirley](mailto:dete@axiomzen.co), [Jacob Evans](mailto:jacob@dekz.net), [Nastassia Sachs](mailto:nastassia.sachs@protonmail.com) |
+| [777](https://eips.ethereum.org/EIPS/eip-777) | ERC777 Token Standard  | [Jacques Dafflon](mailto:mail@0xjac.com), [Jordi Baylina](mailto:jordi@baylina.cat), [Thomas Shababi](mailto:tom@truelevel.io) |
 | [779](https://eips.ethereum.org/EIPS/eip-779) | Hardfork Meta: DAO Fork | [Casey Detrio](https://github.com/cdetrio) |
 | [1013](https://eips.ethereum.org/EIPS/eip-1013) | Hardfork Meta: Constantinople | [Nick Savers](https://github.com/nicksavers) |
 | [1014](https://eips.ethereum.org/EIPS/eip-1014) | Skinny CREATE2 | [Vitalik Buterin](https://github.com/vbuterin) |
@@ -265,13 +265,13 @@
 | [2384](https://eips.ethereum.org/EIPS/eip-2384) | Muir Glacier Difficulty Bomb Delay | [Eric Conner](https://github.com/econoar) |
 | [2387](https://eips.ethereum.org/EIPS/eip-2387) | Hardfork Meta: Muir Glacier | [James Hancock](https://github.com/madeoftin) |
 
-### Active <a id="active"></a>
+### 活跃（Active） <a id="active"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
 | [1](https://eips.ethereum.org/EIPS/eip-1) | EIP Purpose and Guidelines | [Martin Becze](mailto:mb@ethereum.org), [Hudson Jameson](mailto:hudson@ethereum.org), and others https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md |
 
-### Abandoned <a id="abandoned"></a>
+### 已弃用（Abandoned） <a id="abandoned"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
@@ -281,13 +281,13 @@
 | [1355](https://eips.ethereum.org/EIPS/eip-1355) | Ethash 1a | [Paweł Bylica \(@chfast\)](mailto:pawel@ethereum.org), [Jean M. Cyr](https://github.com/jean-m-cyr) |
 | [1682](https://eips.ethereum.org/EIPS/eip-1682) | Storage Rent | [Felix J Lange](https://github.com/fjl), [Martin Holst Swende](https://github.com/holiman) |
 
-### Superseded <a id="superseded"></a>
+### 被取代（Superseded） <a id="superseded"></a>
 
 | Number | Title | Author |
 | :--- | :--- | :--- |
 | [4](https://eips.ethereum.org/EIPS/eip-4) | EIP Classification | [Joseph Chow](https://github.com/ethers) |
 | [5](https://eips.ethereum.org/EIPS/eip-5) | Gas Usage for \`RETURN\` and \`CALL\*\` | [Christian Reitwiessner](mailto:c@ethdev.com) |
-| [158](https://eips.ethereum.org/EIPS/eip-158) | State clearing | Vitalik Buterin |
+| [158](https://eips.ethereum.org/EIPS/eip-158) | State clearing 状态清理 | Vitalik Buterin |
 | [820](https://eips.ethereum.org/EIPS/eip-820) | Pseudo-introspection Registry Contract | [Jordi Baylina](mailto:jordi@baylina.cat), [Jacques Dafflon](mailto:jacques@dafflon.tech) |
 
 ### Ethereum Improvement Proposals
