@@ -36,10 +36,10 @@
 
 #### 🤓 Level 2: 如果想练九阳神功，入这个无底之洞吧！
 
-* 🌟 `**定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs);  2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
+* 🌟 `**不定期更新**` 1. [Ethereum 2.0规范](https://github.com/ethereum/eth2.0-specs);  2. [ECN中文网以太坊2.0规范更新](%20https://app.gitbook.com/@ecn/s/eth2/eth2-specs/v0.9.0%20)。
 * 必读武功秘籍
-  * `**定期更新**` 1. [Serenity宁静阶段的设计理念](https://notes.ethereum.org/@vbuterin/rkhCgQteN) - \(2019年8月文档\)；2. [ECN中文整理](%20https://eth2.ethereum.cn/research/serenity/rationale%20)；
-  * `**定期更新**`  [Phase 0规范图示](https://github.com/protolambda/eth2-docs)  
+  * `**不定期更新**` 1. [Serenity宁静阶段的设计理念](https://notes.ethereum.org/@vbuterin/rkhCgQteN) - \(2019年8月文档\)；2. [ECN中文整理](%20https://eth2.ethereum.cn/research/serenity/rationale%20)；
+  * `**不定期更新**`  [Phase 0规范图示](https://github.com/protolambda/eth2-docs)  
   * **\[2019年10月 @Devcon5, 规范v8版本\]** Phase 0 之高级修练 [Google演示文档](https://docs.google.com/presentation/d/1MZ-E6TVwomt4rqz-P2Bd_X3DFUW9fWDQkxUP_QJhkyw/edit?pli=1#slide=id.g621e1673fb_21_195) 和 [视频@3h58m40s](https://slideslive.com/38919736/devcon5-convention-room-day2)
 
     ‌
@@ -50,18 +50,18 @@
 
 * 💡以太坊研究论坛 [ethresear.ch](http://ethresear.ch/) - [分片sharding](https://ethresear.ch/c/sharding) 和 [鬼精灵Casper](https://ethresear.ch/c/casper)相关主题。
 
-**Sharding, scalalibility**
+**扩容性**
 
-* `**定期更新**` [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
+* `**不定期更新**` [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
   * 什么是区块链分片？不同的分片跨链通讯方式有何差异？
-* `**定期更新**` [以太坊分片研究纲要](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
+* `**不定期更新**` [以太坊分片研究纲要](https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view)
   * Vitalik的笔记收集，其中包括一些PoS相关资源。
-* `**定期更新**` [Vitalik关于分片的思维导图](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
+* `**不定期更新**` [Vitalik关于分片的思维导图](https://www.mindomo.com/zh/mindmap/eth2-sharding-4408ec348bee4501aa125c3e3cd251d3)
 * **\[2018年7月@IC3-Ethereum Crypto Boot Camp\]** 🎞️ @vbuterin: 分片技术：创建可扩容性、去中心化和安全的区块链。 - [视频](https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101) 和 [演示文档](https://vitalik.ca/files/Ithaca201807_Sharding.pdf)
 
 **Proof-of-Stake, Casper**
 
-* `**定期更新**` [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+* `**不定期更新**` [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 * `**论文**` [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)‌
 
 ### 目前进展
@@ -86,7 +86,7 @@
 
 #### Phase 2: 状态执行
 
-* `**定期更新**` [ETH 2 Phase 2 WIKI](https://hackmd.io/@villanuevawill/H1hgfATkB)
+* `**不定期更新**` [ETH 2 Phase 2 WIKI](https://hackmd.io/@villanuevawill/H1hgfATkB)
   * 执行环境\(EEs\), 费用市场
 * **\[2019年10月@Devcon 5\]** [@villanuevawill: Phase 2 开发者经验\(Google文档\)](https://docs.google.com/presentation/d/1Oj96cudOsR1ZvlWneZPk4mo7YWo0wRVX-R-bsNvJStQ/edit#slide=id.g5d36bcd2da_0_0)
 
@@ -101,8 +101,6 @@
 
 ‌[Sharding/Eth2.0/Serenity 演讲集合](https://github.com/ethereum/eth2.0-pm/blob/master/meetups/collection.md)
 
-‌
-
 ##  常见问题FAQs
 
 > 在之前的 [以太坊研究Reddit AMAs](https://docs.ethhub.io/other/ethereum-2.0-ama/) 可能包含了相关的话题。
@@ -111,21 +109,24 @@
 
 #### 什么是以太坊2.0线路图？
 
-> 最近更新: 2019年10月24日
+> 最近更新: 2020年3月20日
 
-参照 [@djrtwo - eth2.0简要视频](https://slideslive.com/38919931/eth-20-tldr) 和 [演示文稿](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1).
+* [@djrtwo - eth2.0](https://slideslive.com/38919931/eth-20-tldr) [视频 ](https://slideslive.com/38919931/eth-20-tldr)/ [幻灯片](https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.p1)
+* [Vitalik：5-10年后的Eth2会是什么样？](https://twitter.com/VitalikButerin/status/1240365047421054976)\(2020/3/19\)
 
 #### eth1什么时候以何种方式并入Eth2？
 
-> 最近更新: 2019年10月24日
+> 最近更新: 2020年1月25日
 
-这里涉及到PoW链迁移到PoS链，最可靠的建议是将eth1的EVM和历史记录转换成为eth2 Phase 2的执行环境（EEs）之一，好处是对DApp的迁移要求最低。
+主要有两种可能性：
 
-在Phase 2系统准备好之前，目前的PoW eth1链和PoS eth2链将共存一段时间。
+1. 将eth1 EVM和历史记录转换为eth2阶段2执行环境（EE）之一。这种方式将将最小化DApp的迁移要求。在阶段2准备就绪之前，当前的PoW eth1链和PoS eth2链将并存一段时间。
+2. 另外，使用Eth1无状态客户端软件（Eth 1.x WIP），我们可以使分片0的状态包含eth1系统的状态根。经注册的Eth1友好验证者可被随机选择为分片0块提议者，将必须维护Eth1节点。
 
 **参考**
 
 * [ethresear.ch论坛上关于eth1 -&gt; eth2转换的技术可能性建议](https://ethresear.ch/t/the-eth1-eth2-transition/6265)
+* [eth1-&gt;eth2合并的替代性提案](https://ethresear.ch/t/alternative-proposal-for-early-eth1-eth2-merge/6666)
 
 ### Phase 0 信标链
 
@@ -186,11 +187,11 @@ Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase
 
 #### 如何成为一名以太坊2.0开发者？
 
-1. 逛逛 [客户端仓库](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), 找出问题，干它!
+1. 逛逛 [客户端库](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), 找出问题，就是干！
    * 能够发现错别字也是帮忙 :\)
    * 如果有你喜好的语言，包括 Go, Java, JavaScript, Nim, Python, Rust… 一众语言!
    * 有些团队还在请人，不要害怕去询问。
-2. 熟悉 [规范](https://github.com/ethereum/eth2.0-specs). 看看是否能够 [找bug奖励5 ETH](https://github.com/ethereum/eth2.0-specs/issues/1345).
+2. 熟悉 [规范](https://github.com/ethereum/eth2.0-specs)，看看是否能够[找bug得5 ETH](https://github.com/ethereum/eth2.0-specs/issues/1345)
 
 ### 还是一脸懵？
 
@@ -198,7 +199,7 @@ Phase 0 \(信标链\)发布时并不具备转账功能，转账功能将在phase
 
 ## 后记
 
-### 本手册由[ECN\(Ethereum.cn\)](https://ethereum.cn)翻译小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
+本手册由[ECN\(Ethereum.cn\)](https://ethereum.cn)翻译小组翻译及整理，感谢notes.ethereum.org的材料来源: [Ethereum 2.0 Devs Handbook and FAQs](https://notes.ethereum.org/@serenity/handbook?type=view#Randomness)
 
-### 我们会及时更新eth2相关内容，请关注[eth2.ethereum.cn](https://Eth2.ethereum.cn)
+**我们会及时更新eth2相关内容，请关注**[**eth2.ethereum.cn**](https://Eth2.ethereum.cn)\*\*\*\*
 
