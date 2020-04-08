@@ -104,8 +104,6 @@
 * [开发规范](kai-fa-zhe-gong-ju/kai-fa-gui-fan/README.md)
   * [EIPs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/eips-1.md)
   * [ERCs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1.md)
-* [运行节点](kai-fa-zhe-gong-ju/yun-hang-jie-dian/README.md)
-  * [Raspberry Pi 4](kai-fa-zhe-gong-ju/yun-hang-jie-dian/untitled.md)
 
 ## 延伸阅读
 
