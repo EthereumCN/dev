@@ -128,7 +128,7 @@ description: 'https://eips.ethereum.org'
 | [1620](https://eips.ethereum.org/EIPS/eip-1620) | ERC-1620 Money Streaming ERC-1620资金持续支付 | [Paul Berg \(@PaulRBerg\)](mailto:hello@paulrberg.com) |
 | [1681](https://eips.ethereum.org/EIPS/eip-1681) | Temporal Replay Protection 临时回放攻击保护 | [Martin Holst Swende](https://github.com/holiman) |
 | [1702](https://eips.ethereum.org/EIPS/eip-1702) | Generalized Account Versioning Scheme ****普遍化账户版本控制 | [Wei Tang](https://github.com/sorpaas) |
-| [1706](https://eips.ethereum.org/EIPS/eip-1706) | **Disable SSTORE with gasleft lower than call stipend**  | [Alex Forshtat](mailto:alex@tabookey.com), [Yoav Weiss](mailto:yoav@tabookey.com) |
+| [1706](https://eips.ethereum.org/EIPS/eip-1706) | Disable SSTORE with gasleft lower than call stipend Gas余量过低时停用SSTORE | [Alex Forshtat](mailto:alex@tabookey.com), [Yoav Weiss](mailto:yoav@tabookey.com) |
 | [1710](https://eips.ethereum.org/EIPS/eip-1710) | URL Format for Web3 Browsers Webs浏览器的URL格式 | [Bruno Barbieri](https://github.com/brunobar79) |
 | [1753](https://eips.ethereum.org/EIPS/eip-1753) | Smart Contract Interface for Licences 许可证智能合约接口 | [Lucas Cullen](https://github.com/BitcoinBrisbane), [Kai Yeung](https://github.com/CivicKai), [Anna Crowley](mailto:annaelizabethcrowley@gmail.com), [Caroline Marshall](mailto:caroline.marshall888@gmail.com), [Katrina Donaghy](mailto:katrina@civicledger.com) |
 | [1761](https://eips.ethereum.org/EIPS/eip-1761) | ERC-1761 Scoped Approval Interface  ERC-1761许可范围接口 | [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [James Therien](mailto:james@enjin.io), [Eric Binet](mailto:eric@enjin.io) |
@@ -139,7 +139,7 @@ description: 'https://eips.ethereum.org'
 | [1822](https://eips.ethereum.org/EIPS/eip-1822) | Universal Upgradeable Proxy Standard \(UUPS\) 通用可升级代理合约标准 | [Gabriel Barros](mailto:gabriel@terminal.co), [Patrick Gallagher](mailto:blockchainbuddha@gmail.com) |
 | [1829](https://eips.ethereum.org/EIPS/eip-1829) | Precompile for Elliptic Curve Linear Combinations 面向椭圆曲线线性组合的预编译 | [Remco Bloemen](mailto:Recmo@0x.org) |
 | [1844](https://eips.ethereum.org/EIPS/eip-1844) | ENS Interface Discovery ENS接口检测 | [Nick Johnson](https://github.com/arachnid) |
-| [1872](https://eips.ethereum.org/EIPS/eip-1872) | Ethereum Network Upgrade Windows以太坊网络升级时间段 | [Danno Ferrin](https://github.com/shemnon) |
+| [1872](https://eips.ethereum.org/EIPS/eip-1872) | Ethereum Network Upgrade Windows 以太坊网络升级时间段 | [Danno Ferrin](https://github.com/shemnon) |
 | [1890](https://eips.ethereum.org/EIPS/eip-1890) | Commitment to Sustainable Ecosystem Funding 针对可持续生态基金的提案 | [Gregory Markou](mailto:greg@chainsafe.io), [Kevin Owocki](mailto:kevin@gitcoin.co), [Lane Rettig](mailto:lane@ethereum.org) |
 | [1895](https://eips.ethereum.org/EIPS/eip-1895) | Support for an Elliptic Curve Cycle 支持椭圆曲线循环技术 | [Alexandre Belling](mailto:alexandrebelling8@gmail.com) |
 | [1898](https://eips.ethereum.org/EIPS/eip-1898) | Add \`blockHash\` to JSON-RPC methods which accept a default block parameter. 支持默认区块参数的JSON-RPC新方法：\`blockHash\`  | [Charles Cooper](https://github.com/charles-cooper) |
@@ -171,7 +171,7 @@ description: 'https://eips.ethereum.org'
 | [2029](https://eips.ethereum.org/EIPS/eip-2029) | State Rent A - State counters contract 状态租金 A 方案：状态计数器合约 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
 | [2031](https://eips.ethereum.org/EIPS/eip-2031) | State Rent B - Net transaction counter 状态租金 B 方案：净交易计数器 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
 | [2035](https://eips.ethereum.org/EIPS/eip-2035) | Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs 无状态客户端：重新给 SLOAD 和 SSTORE 定价，用于 block proof | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
-| [2045](https://eips.ethereum.org/EIPS/eip-2045) | **Particle gas costs for EVM opcodes**  | [Casey Detrio](https://github.com/cdetrio), [Alex Beregszaszi](https://github.com/axic) |
+| [2045](https://eips.ethereum.org/EIPS/eip-2045) | Particle gas costs for EVM opcodes 新Gas单位Particle以降低EVM操作码成本 | [Casey Detrio](https://github.com/cdetrio), [Alex Beregszaszi](https://github.com/axic) |
 | [2046](https://eips.ethereum.org/EIPS/eip-2046) | Reduced gas cost for static calls made to precompiles 减少静态调用预编译所需gas消耗 | [Alex Beregszaszi](https://github.com/axic) |
 | [2069](https://eips.ethereum.org/EIPS/eip-2069) | Recommendation for using YAML ABI in ERCs/EIPs   推荐ERCs/EIPs多采用YAML ABI | [Alex Beregszaszi](https://github.com/axic) |
 | [2070](https://eips.ethereum.org/EIPS/eip-2070) | Hardfork Meta: Berlin  Berlin硬分叉修改提案 | [Alex Beregszaszi](https://github.com/axic) |
@@ -192,16 +192,15 @@ description: 'https://eips.ethereum.org'
 | [2333](https://eips.ethereum.org/EIPS/eip-2333) | BLS12-381 Key Generation BLS12-381密钥生成 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
 | [2334](https://eips.ethereum.org/EIPS/eip-2334) | BLS12-381 Deterministic Account Hierarchy BLS12-381确定性账户分层 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
 | [2335](https://eips.ethereum.org/EIPS/eip-2335) | BLS12-381 Keystore    BLS12-381 Keystore文件 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
-| [2364](https://eips.ethereum.org/EIPS/eip-2364) | **eth/64: forkid-extended protocol handshake**  | [Péter Szilágyi](mailto:peterke@gmail.com) |
-| [2378](https://eips.ethereum.org/EIPS/eip-2378) | **EIPs Eligible for Inclusion** | [James Hancock](https://github.com/MadeofTin) |
+| [2364](https://eips.ethereum.org/EIPS/eip-2364) | eth/64: forkid-extended protocol handshake 将字段forkid加入以太坊握手协议 | [Péter Szilágyi](mailto:peterke@gmail.com) |
 | [2400](https://eips.ethereum.org/EIPS/eip-2400) | URL Format for Transaction Receipts 交易收据的URL格式 | [Ricardo Guilherme Schmidt](https://github.com/3esmit), [Eric Dvorsak](https://github.com/yenda) |
 | [2464](https://eips.ethereum.org/EIPS/eip-2464) | eth/65: transaction announcements and retrievals       eth/65：交易通告及检索 | [Péter Szilágyi](mailto:peterke@gmail.com), [Gary Rong](mailto:garyrong0905@gmail.com) |
 | [2470](https://eips.ethereum.org/EIPS/eip-2470) | Singleton Factory     Singleton 模式的合约 factory | [Ricardo Guilherme Schmidt](https://github.com/3esmit) |
 | [2477](https://eips.ethereum.org/EIPS/eip-2477) | Token Metadata Integrity NFT 元数据完整性 | [Kristijan Sedlak](https://github.com/xpepermint), [William Entriken](mailto:github.com@phor.net), [Witek Radomski](mailto:witek@enjin.io) |
 | [2512](https://eips.ethereum.org/EIPS/eip-2515) | Implement Difficulty Freeze 执行难度冻结 | [James Hancock](https://github.com/madeoftin) |
 | [2525](https://eips.ethereum.org/EIPS/eip-2525) | ENSLogin ENS登录 | [Hadrien Croubois](https://github.com/amxx) |
-| [2542](https://eips.ethereum.org/EIPS/eip-2542) | New opcodes TXGASLIMIT and CALLGASLIMIT 新操作码：TXGASLIMIT 和 CALLGASLIMIT | [Alex Forshtat](mailto:forshtat1@gmail.com) |
-| [2544](https://eips.ethereum.org/EIPS/eip-2544) | ENS Wildcard Resolution ENS 通配符解决方案 | [Nick Johnson](https://github.com/arachnid), [0age](https://github.com/0age) |
+| [2542](https://eips.ethereum.org/EIPS/eip-2542) | New opcodes TXGASLIMIT and CALLGASLIMIT 新操作码TXGASLIMIT 和 CALLGASLIMIT | [Alex Forshtat](mailto:forshtat1@gmail.com) |
+| [2544](https://eips.ethereum.org/EIPS/eip-2544) | ENS Wildcard Resolution ENS通配符解决方案 | [Nick Johnson](https://github.com/arachnid), [0age](https://github.com/0age) |
 
 ### 被接受（Accepted） <a id="accepted"></a>
 
@@ -252,7 +251,7 @@ description: 'https://eips.ethereum.org'
 | [777](https://eips.ethereum.org/EIPS/eip-777) | ERC777 Token Standard  ERC777代币标准 | [Jacques Dafflon](mailto:mail@0xjac.com), [Jordi Baylina](mailto:jordi@baylina.cat), [Thomas Shababi](mailto:tom@truelevel.io) |
 | [779](https://eips.ethereum.org/EIPS/eip-779) | Hardfork Meta: DAO Fork DAO Fork硬分叉修改提案 | [Casey Detrio](https://github.com/cdetrio) |
 | [1013](https://eips.ethereum.org/EIPS/eip-1013) | Hardfork Meta: Constantinople Constantinople硬分叉修改提案 | [Nick Savers](https://github.com/nicksavers) |
-| [1014](https://eips.ethereum.org/EIPS/eip-1014) | **Skinny CREATE2**  | [Vitalik Buterin](https://github.com/vbuterin) |
+| [1014](https://eips.ethereum.org/EIPS/eip-1014) | Skinny CREATE2 缩减版CREATE2 | [Vitalik Buterin](https://github.com/vbuterin) |
 | [1052](https://eips.ethereum.org/EIPS/eip-1052) | EXTCODEHASH opcode  EXTCODEHASH操作码 | [Nick Johnson](mailto:arachnid@notdot.net), [Paweł Bylica](mailto:pawel@ethereum.org) |
 | [1108](https://eips.ethereum.org/EIPS/eip-1108) | Reduce alt\_bn128 precompile gas costs 减少alt\_bn128预编译所消耗gas量 | [Antonio Salazar Cardozo](https://github.com/shadowfiend), [Zachary Williamson](https://github.com/zac-williamson) |
 | [1155](https://eips.ethereum.org/EIPS/eip-1155) | ERC-1155 Multi Token Standard  ERC-1155多代币标准 | [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [Philippe Castonguay](mailto:pc@horizongames.net), [James Therien](mailto:james@turing-complete.com), [Eric Binet](mailto:eric@enjin.io), [Ronan Sandford](mailto:wighawag@gmail.com) |
@@ -293,12 +292,4 @@ description: 'https://eips.ethereum.org'
 | [5](https://eips.ethereum.org/EIPS/eip-5) | Gas Usage for \`RETURN\` and \`CALL\*\` RETURN 和 CALL的gas用量 | [Christian Reitwiessner](mailto:c@ethdev.com) |
 | [158](https://eips.ethereum.org/EIPS/eip-158) | State clearing 状态清理 | Vitalik Buterin |
 | [820](https://eips.ethereum.org/EIPS/eip-820) | Pseudo-introspection Registry Contract 伪自省注册表合约 | [Jordi Baylina](mailto:jordi@baylina.cat), [Jacques Dafflon](mailto:jacques@dafflon.tech) |
-
-### Ethereum Improvement Proposals
-
-* Ethereum Improvement Proposals
-* [ ethereum/EIPs](https://github.com/ethereum/EIPs)
-* [ ethereum](https://twitter.com/ethereum)
-
-Ethereum Improvement Proposals \(EIPs\) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
