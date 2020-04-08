@@ -4,7 +4,7 @@ description: 'https://eips.ethereum.org/erc'
 
 # ERCs
 
-## ERC
+以太坊改进提案（EIP）描述了以太坊平台的标准，包括核心协议规范，客户端API和合约标准。
 
 ### 最后召集（Last Call） <a id="last-call"></a>
 
@@ -140,8 +140,4 @@ description: 'https://eips.ethereum.org/erc'
 | Number | Title | Author |
 | :--- | :--- | :--- |
 | [820](https://eips.ethereum.org/EIPS/eip-820) | Pseudo-introspection Registry Contract 伪自省注册表合约 | [Jordi Baylina](mailto:jordi@baylina.cat), [Jacques Dafflon](mailto:jacques@dafflon.tech) |
-
-### 
-
-Ethereum Improvement Proposals \(EIPs\) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
