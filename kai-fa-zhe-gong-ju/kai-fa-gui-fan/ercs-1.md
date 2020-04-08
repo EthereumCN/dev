@@ -1,6 +1,8 @@
-# ERCs
+---
+description: 'https://eips.ethereum.org/erc'
+---
 
-[https://eips.ethereum.org/erc](https://eips.ethereum.org/erc)
+# ERCs
 
 ## ERC
 
