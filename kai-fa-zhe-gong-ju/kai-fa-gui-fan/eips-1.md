@@ -156,17 +156,17 @@
 | [2003](https://eips.ethereum.org/EIPS/eip-2003) | EVMC modules for implementations of precompiled contracts 用于实现预编译合约的EVMC模块 | [Paweł Bylica](https://github.com/chfast), [Alex Beregszaszi](https://github.com/axic) |
 | [2009](https://eips.ethereum.org/EIPS/eip-2009) | Compliance Service 合规检查服务 | [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2014](https://eips.ethereum.org/EIPS/eip-2014) | Extended State Oracle 状态预言机扩展 | [Alex Beregszaszi](https://github.com/axic) |
-| [2015](https://eips.ethereum.org/EIPS/eip-2015) | **Wallet Update Chain JSON-RPC Method  \(\`wallet\_updateChain\`\)**  | [Pedro Gomes](https://github.com/pedrouid) |
+| [2015](https://eips.ethereum.org/EIPS/eip-2015) | Wallet Update Chain JSON-RPC Method  \(\`wallet\_updateChain\`\) 新的 JSON-RPC 方法（'wallet\_updateChain'） | [Pedro Gomes](https://github.com/pedrouid) |
 | [2018](https://eips.ethereum.org/EIPS/eip-2018) | Clearable Token 可清理代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
-| [2019](https://eips.ethereum.org/EIPS/eip-2019) | Fundable Token | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
-| [2020](https://eips.ethereum.org/EIPS/eip-2020) | E-Money Standard Token | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
-| [2021](https://eips.ethereum.org/EIPS/eip-2021) | Payoutable Token | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
-| [2025](https://eips.ethereum.org/EIPS/eip-2025) | Block Rewards Proposal for funding Eth1.x | [James Hancock](https://github.com/madeoftin) |
-| [2026](https://eips.ethereum.org/EIPS/eip-2026) | State Rent H - Fixed Prepayment for accounts | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
-| [2027](https://eips.ethereum.org/EIPS/eip-2027) | State Rent C - Net contract size accounting | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
-| [2029](https://eips.ethereum.org/EIPS/eip-2029) | State Rent A - State counters contract | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
-| [2031](https://eips.ethereum.org/EIPS/eip-2031) | State Rent B - Net transaction counter | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
-| [2035](https://eips.ethereum.org/EIPS/eip-2035) | Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
+| [2019](https://eips.ethereum.org/EIPS/eip-2019) | Fundable Token 可募资代币 | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
+| [2020](https://eips.ethereum.org/EIPS/eip-2020) | E-Money Standard Token   E-Money标准代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
+| [2021](https://eips.ethereum.org/EIPS/eip-2021) | Payoutable Token 可偿还代币 | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
+| [2025](https://eips.ethereum.org/EIPS/eip-2025) | Block Rewards Proposal for funding Eth1.x 针对Eth1.x基金的区块奖励提案 | [James Hancock](https://github.com/madeoftin) |
+| [2026](https://eips.ethereum.org/EIPS/eip-2026) | State Rent H - Fixed Prepayment for accounts   状态租金 H 方案：账户固定预支付 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
+| [2027](https://eips.ethereum.org/EIPS/eip-2027) | State Rent C - Net contract size accounting  状态租金 C 方案：净合约大小核算 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
+| [2029](https://eips.ethereum.org/EIPS/eip-2029) | State Rent A - State counters contract 状态租金 A 方案：状态计数器合约 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
+| [2031](https://eips.ethereum.org/EIPS/eip-2031) | State Rent B - Net transaction counter 状态租金 B 方案：净交易计数器 | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
+| [2035](https://eips.ethereum.org/EIPS/eip-2035) | Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs 无状态客户端：重新给 SLOAD 和 SSTORE 定价，用于 block proof | [Alexey Akhunov](https://github.com/AlexeyAkhunov) |
 | [2045](https://eips.ethereum.org/EIPS/eip-2045) | Particle gas costs for EVM opcodes | [Casey Detrio](https://github.com/cdetrio), [Alex Beregszaszi](https://github.com/axic) |
 | [2046](https://eips.ethereum.org/EIPS/eip-2046) | Reduced gas cost for static calls made to precompiles | [Alex Beregszaszi](https://github.com/axic) |
 | [2069](https://eips.ethereum.org/EIPS/eip-2069) | Recommendation for using YAML ABI in ERCs/EIPs | [Alex Beregszaszi](https://github.com/axic) |

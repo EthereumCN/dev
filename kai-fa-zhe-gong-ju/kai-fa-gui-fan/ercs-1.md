@@ -95,7 +95,7 @@ description: 'https://eips.ethereum.org/erc'
 | [2009](https://eips.ethereum.org/EIPS/eip-2009) | Compliance Service 合规检查服务 | [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2018](https://eips.ethereum.org/EIPS/eip-2018) | Clearable Token 可清理代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2019](https://eips.ethereum.org/EIPS/eip-2019) | Fundable Token 可募资代币 | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
-| [2020](https://eips.ethereum.org/EIPS/eip-2020) | E-Money Standard Token 电子货币标准代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
+| [2020](https://eips.ethereum.org/EIPS/eip-2020) | E-Money Standard Token E-Money标准代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2021](https://eips.ethereum.org/EIPS/eip-2021) | Payoutable Token 可偿还代币 | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2135](https://eips.ethereum.org/EIPS/eip-2135) | Consumable Interface可消费数字资产接口 | [Zainan Victor Zhou](https://github.com/xinbenlv) |
 | [2157](https://eips.ethereum.org/EIPS/eip-2157) | dType Storage Extension - Decentralized Type System for EVM  dType存储扩展：去中心化EVM类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
