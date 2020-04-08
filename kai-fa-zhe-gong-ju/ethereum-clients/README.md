@@ -1,4 +1,6 @@
 # 以太坊客户端
 
-An Ethereum client refers to any node that is able to parse and verify the blockchain, its smart contracts, and everything in between. An Ethereum client also provides interfaces to create transactions and mine blocks which is the key for any Ethereum transaction. Below are the most popular Ethereum clients.
+以太坊客户端是指任何能够解析和验证区块链、其智能合约以及其中牵涉的所有技术的节点。
+
+以太坊客户端还提供创建交易与挖掘区块的界面，这是任何以太坊交易能够成功的关键前提。
 

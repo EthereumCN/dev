@@ -1,6 +1,10 @@
 # 智能合约库
 
-You've probably used programming libraries before, and these are no different. A smart contract library is the reusable piece of code for a smart contract which is deployed once and shared many times. Below are the most used smart contract libraries.
+其实智能合约库与编程库没有什么区别。
+
+智能合约库是智能合约的可重复使用代码段，第一次被部署后，这些代码段将被多次共享。
+
+
 
 
 

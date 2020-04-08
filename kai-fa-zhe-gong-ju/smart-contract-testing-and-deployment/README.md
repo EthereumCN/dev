@@ -1,6 +1,8 @@
 # 智能合约测试&部署
 
-If you are creating a tool, product, or application on Ethereum, you'll want to make sure your smart contract is in working order before deploying to the mainnet. These tools will help you build, test, and ship your code.
+如果要在以太坊上创建开发工具、产品或应用程序，则首先需要确保智能合约在部署到主网上之前运行状态正常。
+
+下述工具将帮助你构建、测试和发布代码。
 
 
 
