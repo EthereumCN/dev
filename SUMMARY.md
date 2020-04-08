@@ -103,7 +103,14 @@
   * [Fellowship of Ethereum Magicians](kai-fa-zhe-gong-ju/kai-fa-zhe-lun-tan/fellowship-of-ethereum-magicians.md)
 * [开发规范](kai-fa-zhe-gong-ju/kai-fa-gui-fan/README.md)
   * [EIPs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/eips-1.md)
-  * [ERCs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1.md)
+  * [ERCs](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/README.md)
+    * [ERC20](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc20.md)
+    * [ERC621](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc621.md)
+    * [ERC721](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc721.md)
+    * [ERC777](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc777.md)
+    * [ERC884](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc884.md)
+    * [ERC918](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc918.md)
+    * [ERC1155](kai-fa-zhe-gong-ju/kai-fa-gui-fan/ercs-1/erc1155.md)
 
 ## 延伸阅读
 

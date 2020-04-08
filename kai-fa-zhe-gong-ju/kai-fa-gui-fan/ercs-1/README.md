@@ -4,7 +4,7 @@ description: 'https://eips.ethereum.org/erc'
 
 # ERCs
 
-以太坊改进提案（EIP）描述了以太坊平台的标准，包括核心协议规范，客户端API和合约标准。
+ERC（Ethereum Request for Comments）是以太坊智能合约开发者使用的技术文档，定义了一套以太坊生态系统通证的实现规则。这些文档通常由开发者创建，并且包含有关协议规范信息和合约描述。在成为标准之前，必须通过EIP（以太坊改进提案）形式来进行修订，经社区评论和接受。
 
 ### 最后召集（Last Call） <a id="last-call"></a>
 
