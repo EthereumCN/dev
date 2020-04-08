@@ -85,7 +85,7 @@ description: 'https://eips.ethereum.org/erc'
 | [1822](https://eips.ethereum.org/EIPS/eip-1822) | Universal Upgradeable Proxy Standard \(UUPS\) 通用可升级代理合约标准 | [Gabriel Barros](mailto:gabriel@terminal.co), [Patrick Gallagher](mailto:blockchainbuddha@gmail.com) |
 | [1844](https://eips.ethereum.org/EIPS/eip-1844) | ENS Interface Discovery ENS接口检测 | [Nick Johnson](https://github.com/arachnid) |
 | [1900](https://eips.ethereum.org/EIPS/eip-1900) | dType - Decentralized Type System for EVM   dType：去中心化EVM类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
-| [1921](https://eips.ethereum.org/EIPS/eip-1921) | dType Functions Extension 有关dType函数的扩展 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
+| [1921](https://eips.ethereum.org/EIPS/eip-1921) | dType Functions Extension dType函数插件 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
 | [1922](https://eips.ethereum.org/EIPS/eip-1922) | zk-SNARK Verifier Standard zk-SNARK验证合约标准 | [Michael Connor](mailto:michael.connor@uk.ey.com), [Chaitanya Konda](mailto:chaitanya.konda@uk.ey.com), [Duncan Westland](mailto:duncan.westland@uk.ey.com) |
 | [1923](https://eips.ethereum.org/EIPS/eip-1923) | zk-SNARK Verifier Registry Standard zk-SNARK验证合约注册表标准 | [Michael Connor](mailto:michael.connor@uk.ey.com), [Chaitanya Konda](mailto:chaitanya.konda@uk.ey.com), [Duncan Westland](mailto:duncan.westland@uk.ey.com) |
 | [1948](https://eips.ethereum.org/EIPS/eip-1948) | Non-fungible Data Token 非同质化数据代币 | [Johann Barbie](https://github.com/johannbarbie), [Ben Bollen](mailto:ben@ost.com), [pinkiebell](https://github.com/pinkiebell) |
@@ -102,12 +102,12 @@ description: 'https://eips.ethereum.org/erc'
 | [2193](https://eips.ethereum.org/EIPS/eip-2193) | dType Alias Extension - Decentralized Type System dType Alias插件：去中心化类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
 | [2266](https://eips.ethereum.org/EIPS/eip-2266) | Atomic Swap-based American Call Option Contract Standard 基于原子交换的美式买入期权合约标准 | [Runchao Han](mailto:runchao.han@monash.edu), [Haoyu Lin](mailto:chris.haoyul@gmail.com), [Jiangshan Yu](mailto:jiangshan.yu@monash.edu) |
 | [2304](https://eips.ethereum.org/EIPS/eip-2304) | Multichain address resolution for ENS ENS多链地址解决方案 | [Nick Johnson](mailto:nick@ens.domains) |
-| [2309](https://eips.ethereum.org/EIPS/eip-2309) | ERC-721 Consecutive Transfer Extension ERC-721连续性转换扩展 | [Sean Papanikolas](https://github.com/pizza-r0b) |
+| [2309](https://eips.ethereum.org/EIPS/eip-2309) | ERC-721 Consecutive Transfer Extension 连续性ERC-721代币转移插件 | [Sean Papanikolas](https://github.com/pizza-r0b) |
 | [2333](https://eips.ethereum.org/EIPS/eip-2333) | BLS12-381 Key Generation  BLS12-381密钥生成 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
 | [2334](https://eips.ethereum.org/EIPS/eip-2334) | BLS12-381 Deterministic Account Hierarchy BLS12-381确定性账户分层 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
 | [2335](https://eips.ethereum.org/EIPS/eip-2335) | BLS12-381 Keystore      BLS12-381 Keystore文件 | [Carl Beekhuizen](mailto:carl@ethereum.org) |
 | [2400](https://eips.ethereum.org/EIPS/eip-2400) | URL Format for Transaction Receipts 交易收据的URL格式 | [Ricardo Guilherme Schmidt](https://github.com/3esmit), [Eric Dvorsak](https://github.com/yenda) |
-| [2470](https://eips.ethereum.org/EIPS/eip-2470) | 单例工厂模式（Singleton Factory） | [Ricardo Guilherme Schmidt](https://github.com/3esmit) |
+| [2470](https://eips.ethereum.org/EIPS/eip-2470) | Singleton 模式的合约 factory | [Ricardo Guilherme Schmidt](https://github.com/3esmit) |
 | [2477](https://eips.ethereum.org/EIPS/eip-2477) | Token Metadata Integrity 代币元数据完整性 | [Kristijan Sedlak](https://github.com/xpepermint), [William Entriken](mailto:github.com@phor.net), [Witek Radomski](mailto:witek@enjin.io) |
 | [2525](https://eips.ethereum.org/EIPS/eip-2525) | ENSLogin ENS登录 | [Hadrien Croubois](https://github.com/amxx) |
 | [2544](https://eips.ethereum.org/EIPS/eip-2544) | ENS Wildcard Resolution END通配符解决方案 | [Nick Johnson](https://github.com/arachnid), [0age](https://github.com/0age) |
