@@ -49,10 +49,10 @@ description: 'https://eips.ethereum.org/erc'
 | [1129](https://eips.ethereum.org/EIPS/eip-1129) | Standardised DAPP announcements DAPP公告标准化 | [Jan Turk](https://github.com/ThunderDeliverer) |
 | [1132](https://eips.ethereum.org/EIPS/eip-1132) | **Extending ERC20 with token locking capability**  | [nitika-goel](mailto:nitika@govblocks.io) |
 | [1175](https://eips.ethereum.org/EIPS/eip-1175) | Wallet & shop standard for all tokens \(erc20\) 所有ERC20代币钱包与市场 | [Jet Lim](https://github.com/Nitro888) |
-| [1178](https://eips.ethereum.org/EIPS/eip-1178) | Multi-class Token Standard 多类代币标准 | [Albert Chon](mailto:achon@stanford.edu) |
+| [1178](https://eips.ethereum.org/EIPS/eip-1178) | Multi-class Token Standard 多代币标准 | [Albert Chon](mailto:achon@stanford.edu) |
 | [1185](https://eips.ethereum.org/EIPS/eip-1185) | Storage of DNS Records in ENS ENS存储DNS记录 | [Jim McDonald](mailto:Jim@mcdee.net) |
 | [1202](https://eips.ethereum.org/EIPS/eip-1202) | Voting Standard 投票标准 | [Zainan Victor Zhou](https://github.com/xinbenlv), [Evan](https://github.com/evbots), [Yin Xu](https://github.com/yingogobot) |
-| [1203](https://eips.ethereum.org/EIPS/eip-1203) | ERC-1203 Multi-Class Token Standard \(ERC-20 Extension\) ERC-1203多类代币标准，启发于ERC-20代币标准 | [Jeff Huang](mailto:jeffishjeff@gmail.com), [Min Zu](mailto:crawlregister@gmail.com) |
+| [1203](https://eips.ethereum.org/EIPS/eip-1203) | ERC-1203 Multi-Class Token Standard \(ERC-20 Extension\) ERC-1203多代币标准，启发于ERC-20代币标准 | [Jeff Huang](mailto:jeffishjeff@gmail.com), [Min Zu](mailto:crawlregister@gmail.com) |
 | [1207](https://eips.ethereum.org/EIPS/eip-1207) | DAuth Access Delegation Standard  DAuth访问授权标准 | [Xiaoyu Wang](https://github.com/wxygeek), [Bicong Wang](https://github.com/Wangbicong) |
 | [1261](https://eips.ethereum.org/EIPS/eip-1261) | Membership Verification Token \(MVT\) 成员验证代币（MVT） | [Chaitanya Potti](https://github.com/chaitanyapotti), [Partha Bhattacharya](https://github.com/pb25193) |
 | [1271](https://eips.ethereum.org/EIPS/eip-1271) | Standard Signature Validation Method for Contracts 合约签名验证标准方法 | [Francisco Giordano](https://github.com/frangio), [Matt Condon](https://github.com/shrugs), [Philippe Castonguay](https://github.com/PhABC), [Amir Bandeali](https://github.com/abandeali1), [Jorge Izquierdo](https://github.com/izqui), [Bertrand Masius](https://github.com/catageek) |
@@ -98,8 +98,8 @@ description: 'https://eips.ethereum.org/erc'
 | [2020](https://eips.ethereum.org/EIPS/eip-2020) | E-Money Standard Token E-Money标准代币 | [Julio Faura](mailto:julio@adhara.io), [Fernando Paris](mailto:fer@io.builders), [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2021](https://eips.ethereum.org/EIPS/eip-2021) | Payoutable Token 可偿还代币 | [Fernando Paris](mailto:fer@io.builders), [Julio Faura](mailto:julio@adhara.io), [Daniel Lehrner](mailto:daniel@io.builders) |
 | [2135](https://eips.ethereum.org/EIPS/eip-2135) | Consumable Interface可消费数字资产接口 | [Zainan Victor Zhou](https://github.com/xinbenlv) |
-| [2157](https://eips.ethereum.org/EIPS/eip-2157) | dType Storage Extension - Decentralized Type System for EVM  dType存储扩展：去中心化EVM类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
-| [2193](https://eips.ethereum.org/EIPS/eip-2193) | dType Alias Extension - Decentralized Type System Alias：去中心化类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
+| [2157](https://eips.ethereum.org/EIPS/eip-2157) | dType Storage Extension - Decentralized Type System for EVM  dType存储插件：去中心化EVM类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
+| [2193](https://eips.ethereum.org/EIPS/eip-2193) | dType Alias Extension - Decentralized Type System dType Alias插件：去中心化类型系统 | [Loredana Cirstea](https://github.com/loredanacirstea), [Christian Tzurcanu](https://github.com/ctzurcanu) |
 | [2266](https://eips.ethereum.org/EIPS/eip-2266) | Atomic Swap-based American Call Option Contract Standard 基于原子交换的美式买入期权合约标准 | [Runchao Han](mailto:runchao.han@monash.edu), [Haoyu Lin](mailto:chris.haoyul@gmail.com), [Jiangshan Yu](mailto:jiangshan.yu@monash.edu) |
 | [2304](https://eips.ethereum.org/EIPS/eip-2304) | Multichain address resolution for ENS ENS多链地址解决方案 | [Nick Johnson](mailto:nick@ens.domains) |
 | [2309](https://eips.ethereum.org/EIPS/eip-2309) | ERC-721 Consecutive Transfer Extension ERC-721连续性转换扩展 | [Sean Papanikolas](https://github.com/pizza-r0b) |
