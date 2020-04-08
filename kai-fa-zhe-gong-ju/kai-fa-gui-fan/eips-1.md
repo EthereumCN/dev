@@ -21,10 +21,10 @@
 | [173](https://eips.ethereum.org/EIPS/eip-173) | ERC-173 Contract Ownership Standard ERC-173合约所有权标准 | [Nick Mudge](mailto:nick@perfectabstractions.com), [Dan Finlay](mailto:dan@danfinlay.com) |
 | [191](https://eips.ethereum.org/EIPS/eip-191) | Signed Data Standard 已签名数据标准 | [Martin Holst Swende](https://github.com/holiman), [Nick Johnson](mailto:arachnid@notdot.net) |
 | [205](https://eips.ethereum.org/EIPS/eip-205) | ENS support for contract ABIs   ENS支持合约ABIs | [Nick Johnson](mailto:nick@ethereum.org) |
-| [210](https://eips.ethereum.org/EIPS/eip-210) | **Blockhash refactoring**  | [Vitalik Buterin](https://github.com/vbuterin) |
+| [210](https://eips.ethereum.org/EIPS/eip-210) | Blockhash refactoring 区块哈希值精炼 | [Vitalik Buterin](https://github.com/vbuterin) |
 | [233](https://eips.ethereum.org/EIPS/eip-233) | Formal process of hard forks  实行硬分叉的正式过程 | [Alex Beregszaszi](https://github.com/axic) |
 | [234](https://eips.ethereum.org/EIPS/eip-234) | Add \`blockHash\` to JSON-RPC filter options. \`blockHash\` 新的JSON-RPC过滤器选项：\`blockHash\`  | [Micah Zoltu](https://github.com/MicahZoltu) |
-| [600](https://eips.ethereum.org/EIPS/eip-600) | **Ethereum purpose allocation for Deterministic Wallets**  | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
+| [600](https://eips.ethereum.org/EIPS/eip-600) | **Ethereum purpose allocation for Deterministic Wallets**   | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
 | [601](https://eips.ethereum.org/EIPS/eip-601) | Ethereum hierarchy for deterministic wallets 以太坊确定性钱包的分层 | [Nick Johnson](https://github.com/arachnid), [Micah Zoltu](https://github.com/micahzoltu) |
 | [615](https://eips.ethereum.org/EIPS/eip-615) | Subroutines and Static Jumps for the EVM   EVM的子程序和静态跳转 | [Greg Colvin](mailto:greg@colvin.org), [Brooklyn Zelenka](https://github.com/expede), [Paweł Bylica](https://github.com/chfast), [Christian Reitwiessner](https://github.com/chriseth) |
 | [616](https://eips.ethereum.org/EIPS/eip-616) | SIMD Operations for the EVM    对EVM的SIMD操作 | [Greg Colvin](mailto:greg@colvin.org) |
@@ -123,8 +123,8 @@
 | [1616](https://eips.ethereum.org/EIPS/eip-1616) | ERC-1616 Attribute Registry Standard ERC-1616属性注册表标准 | [0age](https://github.com/0age), [Santiago Palladino](https://github.com/spalladino), [Leo Arias](https://github.com/elopio), [Alejo Salles](https://github.com/fiiiu), [Stephane Gosselin](https://github.com/thegostep) |
 | [1620](https://eips.ethereum.org/EIPS/eip-1620) | ERC-1620 Money Streaming ERC-1620资金持续支付 | [Paul Berg \(@PaulRBerg\)](mailto:hello@paulrberg.com) |
 | [1681](https://eips.ethereum.org/EIPS/eip-1681) | Temporal Replay Protection 临时回放攻击保护 | [Martin Holst Swende](https://github.com/holiman) |
-| [1702](https://eips.ethereum.org/EIPS/eip-1702) | **Generalized Account Versioning Scheme**  | [Wei Tang](https://github.com/sorpaas) |
-| [1706](https://eips.ethereum.org/EIPS/eip-1706) | **Disable SSTORE with gasleft lower than call stipend** | [Alex Forshtat](mailto:alex@tabookey.com), [Yoav Weiss](mailto:yoav@tabookey.com) |
+| [1702](https://eips.ethereum.org/EIPS/eip-1702) | Generalized Account Versioning Scheme ****普遍化账户版本控制 | [Wei Tang](https://github.com/sorpaas) |
+| [1706](https://eips.ethereum.org/EIPS/eip-1706) | **Disable SSTORE with gasleft lower than call stipend**  | [Alex Forshtat](mailto:alex@tabookey.com), [Yoav Weiss](mailto:yoav@tabookey.com) |
 | [1710](https://eips.ethereum.org/EIPS/eip-1710) | URL Format for Web3 Browsers Webs浏览器的URL格式 | [Bruno Barbieri](https://github.com/brunobar79) |
 | [1753](https://eips.ethereum.org/EIPS/eip-1753) | Smart Contract Interface for Licences 许可证智能合约接口 | [Lucas Cullen](https://github.com/BitcoinBrisbane), [Kai Yeung](https://github.com/CivicKai), [Anna Crowley](mailto:annaelizabethcrowley@gmail.com), [Caroline Marshall](mailto:caroline.marshall888@gmail.com), [Katrina Donaghy](mailto:katrina@civicledger.com) |
 | [1761](https://eips.ethereum.org/EIPS/eip-1761) | ERC-1761 Scoped Approval Interface  ERC-1761许可范围接口 | [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [James Therien](mailto:james@enjin.io), [Eric Binet](mailto:eric@enjin.io) |
