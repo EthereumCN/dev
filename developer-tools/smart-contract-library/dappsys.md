@@ -10,8 +10,6 @@
 
 * [http://dapp.tools/dappsys/](http://dapp.tools/dappsys/)
 
-
-
 #### Github
 
 * [https://github.com/dapphub/dappsys](https://github.com/dapphub/dappsys)
