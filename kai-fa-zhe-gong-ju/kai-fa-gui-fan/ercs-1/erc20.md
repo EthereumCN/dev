@@ -1,8 +1,10 @@
 ---
-description: ERC20通过一个标准API保障通证之间的互操作性，以便共享、交换通证或将通证转移到加密钱包。
+description: 'https://eips.ethereum.org/EIPS/eip-20https://eips.ethereum.org/EIPS/eip-20'
 ---
 
 # ERC20
+
+ERC20通过一个标准API保障通证之间的互操作性，以便共享、交换通证或将通证转移到加密钱包。
 
 ![](../../../.gitbook/assets/1-1z109102542b8.gif)
 
