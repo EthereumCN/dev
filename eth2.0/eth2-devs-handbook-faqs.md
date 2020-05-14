@@ -3,7 +3,7 @@
 ## 搞D乜？ETH2也疯狂！
 
 * 通过综合以太坊最新的ETH2.0开发进程，旨在提供一个开发者培训指南，迅速入手ETH2.0开发。
-* 这个文档是精华中的精华，可能其它地方也出现过类似的文档，我们尝试把最有用的东西收集到这里。It’s a collection of collections; the same resource may overlap in different links. Although we would try to sort by difficulty levels.
+* 这个文档是精华中的精华，可能其它地方也出现过类似的文档，我们尝试把最有用的东西收集到这里。
 * 请注意，ETH2.0在以太坊基金会的主导下正如火如荼的建设中，有些内容可能迅速修改和抛弃，请多留意我们的最新文档更新。
 
 ## 总列表
